@@ -57546,10 +57546,10 @@ body .ui-datepicker-title select {
 }
 
 .sh-counter-divider {
-    width: 26px;
+    width: 35px;
     border-style: solid;
     border-width: 0;
-    border-bottom-width: 2px;
+    border-bottom-width: 4px;
     border-color: rgba(0, 0, 0, .1);
     margin: 0 auto;
     margin-bottom: 10px
