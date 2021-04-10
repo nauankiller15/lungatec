@@ -1,11 +1,12 @@
 .footer {
-    background-color: #131313
+    background: url(https://1.bp.blogspot.com/-la9PWLffo1E/YHERBvy5cqI/AAAAAAAAHBY/tZqmMXftRKUhV_6AXH0Af1NsT_eypQCWACLcBGAsYHQ/s0/fundo-da-pagina.png);
+    background-repeat: no-repeat;
 }
 
 .footer-title {
     margin-bottom: 30px;
     font-family: Heebo, sans-serif;
-    color: var(--cor-titulo-footer);
+    color: var(--branco);
     font-size: 16px;
     line-height: 36px;
     font-weight: 900;
