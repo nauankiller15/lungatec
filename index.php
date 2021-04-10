@@ -47,7 +47,7 @@
                         <div class="vc_row wpb_row vc_row-fluid vc_custom_1574357568305 vc_row_719594834">
                             <div class="wpb_column vc_column_container vc_col-sm-4 vc_column_876082259">
                                 <div class="vc_column-inner ">
-                                    <div class="wpb_wrapper">
+                                    <div data-aos="fade-down-left" data-aos-duration="900" class="wpb_wrapper">
                                         <div class="sh-heading  " id="heading-ELMyWP3nAk">
                                             <div class="sh-element-margin">
                                                 <h2 class="sh-heading-content size-custom text-left">

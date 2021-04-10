@@ -42,6 +42,7 @@
     <script src="Lib/misc.js"></script>
 
     <!-- LIBRARY -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
     <script src="Lib/optmizer.js"></script>
     <script src="https://kit.fontawesome.com/13e0382c7c.js"></script>
@@ -50,9 +51,10 @@
     <script src="JS/typed-effect.js"></script>
     <script src="JS/responsive-nav.js"></script>
     <script src="JS/menu.anim.js"></script>
-
+    
     <script type="text/html" id="wpb-modifications"></script>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:700%2C700italic%2C500%7CRoboto:400" rel="stylesheet" property="stylesheet" media="all" type="text/css">
     <script>
+        AOS.init();
         MenuAtivo();
     </script>
