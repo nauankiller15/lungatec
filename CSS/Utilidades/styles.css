@@ -1,0 +1,20 @@
+.sh-page-loader {
+    background-color: rgba(255, 255, 255, 0.98) !important;
+}
+
+.ml4 {
+    position: relative;
+    font-weight: 900;
+    font-size: 4.5em;
+    color: var(--branco);
+}
+
+.ml4 .letters {
+    opacity: 0;
+    color: var(--branco);
+}
+
+#footer {
+    background: url(https://1.bp.blogspot.com/-la9PWLffo1E/YHERBvy5cqI/AAAAAAAAHBY/tZqmMXftRKUhV_6AXH0Af1NsT_eypQCWACLcBGAsYHQ/s0/fundo-da-pagina.png);
+    background-repeat: no-repeat;
+}

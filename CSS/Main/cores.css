@@ -1,0 +1,36 @@
+/* REGRAS DE CORES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700&display=swap");
+:root {
+    --body: #191a1a;
+    --cor-texto: #707070;
+    /* menu */
+    --cor-menu: #fafafa;
+    --cor-menu2: #000000;
+    --cor-borda-menu: #2d1dff;
+    --cor-background-menu: #2d1dff;
+    --borda-menu2: #2d1dff;
+    /*  */
+    /* footer */
+    --cor-titulo-footer: #2d1dff;
+    --cor-texto-footer: #fcfcfc;
+    --creditos: #131313;
+    --border-color-footer: #162b2d;
+    /*  */
+    --branco: #ffffff;
+    --azul: #2d1dff;
+    --azul-fraco: #5146f7;
+    --preto: #191a1a;
+    --separador: #2c2c2c;
+    --cor-p: #cfcfcf;
+    /* menu responsivo */
+    --fundo-responsivo: #000;
+}
+
+.azul {
+    color: var(--azul);
+}
+
+
+/*  */
