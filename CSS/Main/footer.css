@@ -1,6 +1,18 @@
 .footer {
     background: url(https://1.bp.blogspot.com/-la9PWLffo1E/YHERBvy5cqI/AAAAAAAAHBY/tZqmMXftRKUhV_6AXH0Af1NsT_eypQCWACLcBGAsYHQ/s0/fundo-da-pagina.png);
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    right: -100%;
+    bottom: -100%;
+    top: -100%;
+    left: -100%;
+    object-fit: cover;
+    z-index: -100;
+    overflow: hidden;
 }
 
 .footer-title {

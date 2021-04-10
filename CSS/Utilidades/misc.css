@@ -3621,6 +3621,11 @@ blockquote {
 
 @media screen and (max-width:991px) {
     /* CABEÇALHO PAGINA */
+    .ml4 {
+        position: relative;
+        font-weight: 900;
+        font-size: 1.9em;
+    }
     .ml4 .letters {
         opacity: 0;
         color: var(--branco);
@@ -3642,15 +3647,10 @@ blockquote {
         background-color: #ffffff
     }
     .container-banner {
-        top: 10vh;
+        top: -1vh;
         z-index: 10;
         margin-right: 5vw;
         margin-left: 5vw;
-    }
-    .ml4 {
-        position: relative;
-        font-weight: 900;
-        font-size: 2.5em;
     }
     /*  */
     /*  */
@@ -3714,7 +3714,7 @@ blockquote {
         -ms-flex-pack: center;
         justify-content: center;
         text-align: center;
-        height: 50vh;
+        height: 40vh;
     }
     .container-big-depoimentos {
         padding-top: 85px;
