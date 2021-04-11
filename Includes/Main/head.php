@@ -13,7 +13,7 @@
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\main-files.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\styles.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\misc.css">
-    <link rel="stylesheet" type="text/css" href="CSS\main\footer.css">
+    <link rel="stylesheet" type="text/css" href="CSS\Main\footer.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\dynamics.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\cores.css">
     <!-- FORMATTER -->
@@ -24,7 +24,7 @@
     <!-- ICON -->
     <link rel="icon" type="image/png" href="/fav.png" />
 
-    <!-- DOWNLOADER -->
+    <!-- LOADER -->
     <div class="sh-page-loader sh-table sh-page-loader-style-spinner">
         <div class="sh-table-cell">
             <div id="loading-center-absolute">
