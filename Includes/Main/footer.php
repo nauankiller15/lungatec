@@ -37,11 +37,12 @@
 <!-- PRIMARY KEY -->
 <script src="Lib/jquery-3.5.1.min.js"></script>
 <script src="Lib/misc.js"></script>
+<script src="Lib/optmizer.js"></script>
+
 
 <!-- LIBRARY -->
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
-<script src="Lib/optmizer.js"></script>
 <script src="https://kit.fontawesome.com/13e0382c7c.js"></script>
 
 <!-- JS -->
