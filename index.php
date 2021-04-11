@@ -245,8 +245,6 @@
 
                                                 <h2 class="sh-heading-content size-custom text-center">
                                                     Parcerias fechadas </h2>
-
-
                                             </div>
                                         </div>
                                     </div>
@@ -274,8 +272,6 @@
 
                                                 <h2 class="sh-heading-content size-custom text-center">
                                                     Objetivos Completados </h2>
-
-
                                             </div>
                                         </div>
                                     </div>
@@ -302,9 +298,7 @@
 
 
                                                 <h2 class="sh-heading-content size-custom text-center">
-                                                    Analises positivas </h2>
-
-
+                                                    Análises positivas </h2>
                                             </div>
                                         </div>
                                     </div>

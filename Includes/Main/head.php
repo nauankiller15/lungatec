@@ -7,7 +7,7 @@
     <link media="all" href="CSS\Main\startup.css" rel="stylesheet">
     <link media="only screen and (max-width: 768px)" rel="stylesheet" type="text/css" href="CSS\Utilidades\optmize.css">
     <title>Lungatec</title>
-    <!--  -->
+    <!-- STYLESHEET -->
     <link rel="stylesheet" type="text/css" href="CSS\Main\menu.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\menu.mobile.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\main-files.css">
@@ -16,14 +16,15 @@
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\misc.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\dynamics.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\cores.css">
-    <!--  -->
+    <!-- FORMATTER -->
     <style id='jevelin-responsive-inline-css' type='text/css'>
     </style>
-    <link rel='stylesheet' id='jevelin-fonts-css' href='https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Raleway:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&#038;subset=latin' type='text/css' media='all' />
-    <!--  -->
+    <!-- ANT JS  -->
     <script src="Lib/tit.js"></script>
-    <!--  -->
+    <!-- ICON -->
     <link rel="icon" type="image/png" href="/fav.png" />
+    
+    <!-- DOWNLOADER -->
     <div class="sh-page-loader sh-table sh-page-loader-style-spinner">
         <div class="sh-table-cell">
             <div id="loading-center-absolute">
