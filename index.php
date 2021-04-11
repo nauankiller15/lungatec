@@ -44,183 +44,238 @@
             <div class="content-container">
                 <div class="container entry-content">
                     <div id="content" class="page-content  page-default-content">
-                        <div class="vc_row wpb_row vc_row-fluid vc_custom_1574357568305 vc_row_719594834">
-                            <div class="wpb_column vc_column_container vc_col-sm-4 vc_column_876082259">
-                                <div class="vc_column-inner ">
-                                    <div data-aos="fade-down-left" data-aos-duration="900" class="wpb_wrapper">
-                                        <div class="sh-heading  " id="heading-ELMyWP3nAk">
-                                            <div class="sh-element-margin">
-                                                <h2 class="sh-heading-content size-custom text-left">
-                                                    Sempre prestativo! </h2>
-                                            </div>
-                                        </div>
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-TE6pUifHK4  " style="height: 20px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
+                        <div class="sh-heading  " id="heading-ZEVeswvR8X">
+                            <div class="sh-element-margin">
 
 
-                                        <div class="sh-heading  " id="heading-jlYEacuO8d">
-                                            <div class="sh-element-margin">
+                                <h2 class="sh-heading-content size-custom text-center margin-servicos">
+                                    Serviços </h2>
 
 
-                                                <h2 class="sh-heading-content size-custom text-left">
-                                                    Serviços serão colocados aqui: </h2>
-
-
-                                            </div>
-                                        </div>
-
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-T0dqgiUWxZ  " style="height: 52px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
-
-
-                                        <div id="button-gSrxkDGqfa" class="sh-button-container  sh-button-style-5">
-                                            <div class="sh-element-margin">
-                                                <a href="#" target="_self" class="sh-button sh-button-medium ">
-                                                    <span class="sh-button-text">
-                                                        Botão exemplo </span>
-
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
-                            <div class="wpb_column vc_column_container vc_col-sm-8 vc_column_1800705419">
+                        </div>
+
+                        <div class="sh-empty-space vc_empty_space sh-empty-space-jXM2PZYva0  " style="height: 10px">
+                            <span class="vc_empty_space_inner"></span>
+                        </div>
+
+
+                        <div class="sh-heading  " id="heading-afErPwRIot">
+                            <div class="sh-element-margin">
+
+
+                                <h2 class="sh-heading-content size-custom text-center">
+                                    Confira aqui os serviços que são prestados </h2>
+
+
+                            </div>
+                        </div>
+                        <!--  -->
+                        <div class="vc_row wpb_row vc_row-fluid vc_custom_1574358414311 vc_row-o-content-middle vc_row-flex vc_row_63772930">
+                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_748555517">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper">
-                                        <div class="vc_row wpb_row vc_inner vc_row-fluid vc_row_1102933560">
-                                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6 vc_column_229317485">
-                                                <div class="vc_column-inner ">
-                                                    <div class="wpb_wrapper" style="width: 100%; max-width: 220px;margin-left: auto; margin-right: 0;">
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-WYoJ6xuT0S  " style="height: 0px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-                                                        <div id="icon-lEX9DremNb" class="sh-icon  sh-icon-left">
-                                                            <div class="sh-element-margin">
-                                                                <div class="sh-icon-container">
-                                                                    <i class="sh-icon-data fas fa-tools"></i>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-67o4vQqPrX  " style="height: 32px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-                                                        <div class="sh-heading  " id="heading-BMjTWRp3F9">
-                                                            <div class="sh-element-margin">
-                                                                <h2 class="sh-heading-content size-custom text-left">
-                                                                    Fast &amp; effective </h2>
-                                                            </div>
-                                                        </div>
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-pNUST7IYuL  " style="height: 15px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-                                                        <div id="text-block-lGsY129ZfK" class="sh-text-block">
-                                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6 vc_column_784285293">
-                                                <div class="vc_column-inner ">
-                                                    <div class="wpb_wrapper" style="width: 100%; max-width: 220px;margin-left: auto; margin-right: auto;">
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-4lCA5g9x2Y  " style="height: 0px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-                                                        <div id="icon-ZDKHGwxv5t" class="sh-icon  sh-icon-left">
-                                                            <div class="sh-element-margin">
-                                                                <div class="sh-icon-container">
-                                                                    <i class="sh-icon-data fas fa-tools"></i>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-icWJHYuILq  " style="height: 32px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-                                                        <div class="sh-heading  " id="heading-BC4hFqM7AZ">
-                                                            <div class="sh-element-margin">
-                                                                <h2 class="sh-heading-content size-custom text-left">
-                                                                    Marketing strategy </h2>
-                                                            </div>
-                                                        </div>
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-riJj6eQfsL  " style="height: 15px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-                                                        <div id="text-block-bL8dmGITau" class="sh-text-block">
-                                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="vc_row wpb_row vc_inner vc_row-fluid vc_row_1540780373">
-                                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6 vc_column_1302265147">
-                                                <div class="vc_column-inner ">
-                                                    <div class="wpb_wrapper" style="width: 100%; max-width: 220px;margin-left: auto; margin-right: 0;">
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-Qyqfvz4pnc  " style="height: 80px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-                                                        <div id="icon-4sX7jeuMmq" class="sh-icon  sh-icon-left">
-                                                            <div class="sh-element-margin">
-                                                                <div class="sh-icon-container">
-                                                                    <i class="sh-icon-data fas fa-tools"></i>
-                                                                </div>
-                                                            </div>
+                                        <div id="single-image-ALnKGlO6zp" class="sh-single-image  ">
+                                            <div class="sh-element-margin">
+                                                <div class="sh-single-image-container">
 
-                                                        </div>
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-R1eoUSYCFn  " style="height: 32px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-                                                        <div class="sh-heading  " id="heading-f7lKvi0um8">
-                                                            <div class="sh-element-margin">
-                                                                <h2 class="sh-heading-content size-custom text-left">
-                                                                    Consulting </h2>
-                                                            </div>
-                                                        </div>
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-6p3wRsP1Kn  " style="height: 15px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-                                                        <div id="text-block-AZMTqwfCYa" class="sh-text-block">
-                                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6 vc_column_630144883">
-                                                <div class="vc_column-inner ">
-                                                    <div class="wpb_wrapper" style="width: 100%; max-width: 220px;margin-left: auto; margin-right: auto;">
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-ygnuFMbTt0  " style="height: 80px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-                                                        <div id="icon-CALMwWYVSP" class="sh-icon  sh-icon-left">
-                                                            <div class="sh-element-margin">
-                                                                <div class="sh-icon-container">
-                                                                    <i class="sh-icon-data fas fa-tools"></i>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-gz4vOCljeB  " style="height: 32px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-
-                                                        <div class="sh-heading  " id="heading-7DER1hG8w3">
-                                                            <div class="sh-element-margin">
-                                                                <h2 class="sh-heading-content size-custom text-left">
-                                                                    Startup support </h2>
-
-                                                            </div>
-                                                        </div>
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-RM43dh7yYx  " style="height: 15px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-
-                                                        <div id="text-block-TIWCmVkDl2" class="sh-text-block">
-                                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>
-                                                    </div>
+                                                    <img class="sh-image-url" src="https://1.bp.blogspot.com/-kstlfaWkosc/YHNCLok455I/AAAAAAAAHCU/rkOFiFbJGH8mE3jR-kE4RCD4XqMUg9-WgCLcBGAsYHQ/s0/fusao%2Bde%2Bmontagem%2Bdio.png" alt="daniel-korpai-xgffTVZs1FI-unsplash1" />
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_871963452">
+                                <div class="vc_column-inner ">
+                                    <div class="wpb_wrapper" style="width: 100%; max-width: 430px;margin-left: auto; margin-right: auto;">
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-1dothsXY06  " style="height: 0px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+
+
+                                        <div class="sh-heading  " id="heading-7P51fHIrgk">
+                                            <div class="sh-element-margin">
+
+
+                                                <h2 class="sh-heading-content size-custom text-left">
+                                                    FUSÃO / MONTAGEM DIO </h2>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-pgDBCZJeHi  " style="height: 20px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+
+
+                                        <div id="text-block-nmXvFNUDAR" class="sh-text-block">
+                                            Equipe especializada em atendimentos a serviços de fusão de fibra óptica e montagem de DIO, atendimentos de emergência em manutenção de redes, rompimento de cabos no aéreo, subterrâneo, centrais, navios, estaleiros etc, atendendo as seguintes demandas:
+                                        </div>
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-NpTVlAIw4O  " style="height: 25px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+
+                                        <ul class="sh-list sh-list-vc sh-list-style1" id="list-UnW7b1uJlj">
+                                            <li class="sh-list-item">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                    Contratadas Petrobrás</span>
+
+                                            </li>
+                                            <li class="sh-list-item">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                Contratadas Operadoras de Telecomunicações</span>
+
+                                            </li>
+                                            <li class="sh-list-item">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                Bancos e Provedores Internet</span>
+
+                                            </li>
+                                            <li class="sh-list-item">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                Empreiteiras</span>
+
+                                            </li>
+                                            <li class="sh-list-item">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                Empresas Engenharia /projetos de Implantação </span>
+
+                                            </li>
+                                            <li class="sh-list-item">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                Ampliação e Manutenção de Redes </span>
+
+                                            </li>
+                                        </ul>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="vc_row wpb_row vc_row-fluid vc_custom_1574358476308 vc_row-o-content-middle vc_row-flex vc_row_592955193 vc_row_reversed_columns">
+                            <div class="wpb_column vc_column_container vc_col-sm-6">
+                                <div class="vc_column-inner ">
+                                    <div class="wpb_wrapper" style="width: 100%; max-width: 430px;margin-left: 0; margin-right: auto;">
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-9YSKHANCV4  " style="height: 0px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+
+
+                                        <div class="sh-heading  " id="heading-GtzIFKaB97">
+                                            <div class="sh-element-margin">
+
+
+                                                <h2 class="sh-heading-content size-custom text-left">
+                                                    INSTALAÇÃO DE RADIO ELANCE </h2>
+
+
+                                            </div>
+                                        </div>
+
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-ZNdqVyEHPS  " style="height: 20px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+
+
+                                        <div id="text-block-v8ei9wHRpg" class="sh-text-block">
+                                            Instalação e configuração de todos os equipamentos importados e representados, bem como de outros fabricantes.
+
+                                            INSTALAÇÃO DE INFRAESTRUTURA
+
+                                        </div>
+                                        <ul class="sh-list sh-list-vc sh-list-style1" id="list-sk4pBo9UdP">
+                                            <li class="sh-list-item">
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                    Fibra óptica (passagem, conectorização e fusão)</span>
+                                            </li>
+                                            <li class="sh-list-item">
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                    Cabo UTP (passagem e conectorização)</span>
+                                            </li>
+                                            <li class="sh-list-item">
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                    Torres (projeto e montagem)</span>
+                                            </li>
+                                            <li class="sh-list-item">
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                    Estudo de viabilidade de RF</span>
+                                            </li>
+                                            <li class="sh-list-item">
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                    Analise espectral no local</span>
+                                            </li>
+                                        </ul>
+
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-8RVjqkaMS6  " style="height: 35px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_814805936">
+                                <div class="vc_column-inner ">
+                                    <div class="wpb_wrapper">
+                                        <div id="single-image-8FR6DIdtPz" class="sh-single-image  ">
+                                            <div class="sh-element-margin">
+
+
+                                                <div class="sh-single-image-container">
+
+                                                    <img class="sh-image-url" src="https://1.bp.blogspot.com/-EhYL2jH4Jfk/YHM8gcMEYyI/AAAAAAAAHCI/qhRHDBnGBicNM-1P2StbSi7e3R3ztG4ggCLcBGAsYHQ/s0/radio.png" alt="INSTALAÇÃO DE RADIO ELANCE" />
+
+
+                                                </div>
+
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                         <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1574358254466 vc_row-has-fill vc_row-no-padding vc_row_617888738">
                             <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-xs-6">
@@ -335,215 +390,7 @@
                             </div>
                         </div>
                         <div class="vc_row-full-width vc_clearfix"></div>
-                        <div class="vc_row wpb_row vc_row-fluid vc_custom_1574358414311 vc_row-o-content-middle vc_row-flex vc_row_63772930">
-                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_748555517">
-                                <div class="vc_column-inner ">
-                                    <div class="wpb_wrapper">
-                                        <div id="single-image-ALnKGlO6zp" class="sh-single-image  ">
-                                            <div class="sh-element-margin">
-                                                <div class="sh-single-image-container">
 
-                                                    <img class="sh-image-url" src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/daniel-korpai-xgffTVZs1FI-unsplash1.jpg" alt="daniel-korpai-xgffTVZs1FI-unsplash1" />
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_871963452">
-                                <div class="vc_column-inner ">
-                                    <div class="wpb_wrapper" style="width: 100%; max-width: 430px;margin-left: auto; margin-right: auto;">
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-1dothsXY06  " style="height: 0px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
-
-
-                                        <div class="sh-heading  " id="heading-7P51fHIrgk">
-                                            <div class="sh-element-margin">
-
-
-                                                <h2 class="sh-heading-content size-custom text-left">
-                                                    Descrever o serviço </h2>
-
-
-                                            </div>
-                                        </div>
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-pgDBCZJeHi  " style="height: 20px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
-
-
-                                        <div id="text-block-nmXvFNUDAR" class="sh-text-block">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vitae sodales lectus, non ultrices nisi. In varius, leo non gravida tristique, diam nunc aliquam</div>
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-NpTVlAIw4O  " style="height: 25px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
-
-                                        <ul class="sh-list sh-list-vc sh-list-style1" id="list-UnW7b1uJlj">
-                                            <li class="sh-list-item">
-
-                                                <span class="sh-list-icon">
-                                                    <i class="fa fa-check"></i>
-                                                </span>
-                                                <span class="sh-list-content">
-                                                    Exemplo de descrição 1 </span>
-
-                                            </li>
-                                        </ul>
-
-
-
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-CH76XfTFbo  " style="height: 5px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
-                                        <ul class="sh-list sh-list-vc sh-list-style1" id="list-sk4pBo9UdP">
-                                            <li class="sh-list-item">
-
-                                                <span class="sh-list-icon">
-                                                    <i class="fa fa-check"></i>
-                                                </span>
-                                                <span class="sh-list-content">
-                                                    Exemplo de descrição 2 </span>
-
-                                            </li>
-                                        </ul>
-
-
-
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-jX278M6YKl  " style="height: 5px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
-
-                                        <ul class="sh-list sh-list-vc sh-list-style1" id="list-E6IDzAhUxs">
-                                            <li class="sh-list-item">
-
-                                                <span class="sh-list-icon">
-                                                    <i class="fa fa-check"></i>
-                                                </span>
-                                                <span class="sh-list-content">
-                                                    Exemplo de descrição 3 </span>
-
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="vc_row wpb_row vc_row-fluid vc_custom_1574358476308 vc_row-o-content-middle vc_row-flex vc_row_592955193 vc_row_reversed_columns">
-                            <div class="wpb_column vc_column_container vc_col-sm-6">
-                                <div class="vc_column-inner ">
-                                    <div class="wpb_wrapper" style="width: 100%; max-width: 430px;margin-left: 0; margin-right: auto;">
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-9YSKHANCV4  " style="height: 0px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
-
-
-                                        <div class="sh-heading  " id="heading-GtzIFKaB97">
-                                            <div class="sh-element-margin">
-
-
-                                                <h2 class="sh-heading-content size-custom text-left">
-                                                    Descrever o serviço </h2>
-
-
-                                            </div>
-                                        </div>
-
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-ZNdqVyEHPS  " style="height: 20px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
-
-
-                                        <div id="text-block-v8ei9wHRpg" class="sh-text-block">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vitae sodales lectus, non ultrices nisi in</div>
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-8RVjqkaMS6  " style="height: 35px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
-
-
-                                        <div id="progress-xMru35hpDz" class="sh-progress sh-progress-style4">
-
-                                            <div class="sh-progress-item">
-                                                <div class="row">
-                                                    <div class="col-md-8 col-sm-8 col-xs-8">
-                                                        <div class="sh-progress-title sh-heading-font">
-                                                            Demanda Alta! </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-sm-4 col-xs-4">
-                                                        <div class="sh-progress-value2">
-                                                            80%
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="sh-progress-content">
-                                                    <div class="sh-progress-content-container">
-                                                        <div class="sh-progress-status">
-                                                            <div class="sh-progress-status-value" data-width="80"></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                        </div>
-
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-nbLUYz2OpD  " style="height: 55px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
-
-
-                                        <div id="progress-TSrsK2EvQn" class="sh-progress sh-progress-style4">
-
-                                            <div class="sh-progress-item">
-                                                <div class="row">
-                                                    <div class="col-md-8 col-sm-8 col-xs-8">
-                                                        <div class="sh-progress-title sh-heading-font">
-                                                            Perdas! </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-sm-4 col-xs-4">
-                                                        <div class="sh-progress-value2">
-                                                            20%
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="sh-progress-content">
-                                                    <div class="sh-progress-content-container">
-                                                        <div class="sh-progress-status">
-                                                            <div class="sh-progress-status-value" data-width="20"></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_814805936">
-                                <div class="vc_column-inner ">
-                                    <div class="wpb_wrapper">
-                                        <div id="single-image-8FR6DIdtPz" class="sh-single-image  ">
-                                            <div class="sh-element-margin">
-
-
-                                                <div class="sh-single-image-container">
-
-                                                    <img class="sh-image-url" src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/daniel-korpai-xgffTVZs1FI-unsplash2.jpg" alt="daniel-korpai-xgffTVZs1FI-unsplash2" />
-
-
-                                                </div>
-
-
-                                            </div>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
                         <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1574430128105 vc_row-no-padding vc_row_19093349">
                             <div class="wpb_column vc_column_container vc_col-sm-12 vc_column_459201362">
                                 <div class="vc_column-inner ">
@@ -569,7 +416,7 @@
 
 
                                                 <h2 class="sh-heading-content size-custom text-center">
-                                                    Podemos colocar algumas fotos neste menu </h2>
+                                                    Confira aqui a galera de fotos </h2>
 
 
                                             </div>
@@ -583,7 +430,7 @@
                                                 <div class="sh-gallery-item">
                                                     <div class="post-meta-thumb">
 
-                                                        <img src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/daniel-korpai-CCyTGxR3J9M-unsplash1.jpg" alt="daniel-korpai-CCyTGxR3J9M-unsplash1" />
+                                                        <img src="https://1.bp.blogspot.com/-DAaMQtJ29LU/YHNJeiokONI/AAAAAAAAHCc/0IY5IvwgkAQWsm6UDxJ9mHJncwy692gngCLcBGAsYHQ/s0/manutencao.png" alt="Manutenção"/>
 
                                                     </div>
                                                 </div>
@@ -592,7 +439,7 @@
                                                 <div class="sh-gallery-item">
                                                     <div class="post-meta-thumb">
 
-                                                        <img src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/daniel-korpai-CCyTGxR3J9M-unsplash5.jpg" alt="daniel-korpai-CCyTGxR3J9M-unsplash5" />
+                                                        <img src="https://1.bp.blogspot.com/-k-8S05Z-mhc/YHNJ9lWXA6I/AAAAAAAAHCk/tKTU5e5xTacrHdGPW46Xd4xvfi2MdujEwCLcBGAsYHQ/s0/radios.png" alt="Radios"/>
 
                                                     </div>
                                                 </div>
@@ -601,7 +448,7 @@
                                                 <div class="sh-gallery-item">
                                                     <div class="post-meta-thumb">
 
-                                                        <img src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/daniel-korpai-CCyTGxR3J9M-unsplash.jpg" alt="daniel-korpai-CCyTGxR3J9M-unsplash" />
+                                                        <img src="https://1.bp.blogspot.com/-eq4k9fgqfuA/YHNKyA4yZgI/AAAAAAAAHCs/Np7Lu6PQTnY0x_P5Evn92CfrI1DZQkvJwCLcBGAsYHQ/s0/radio-visao.png" alt="Radios-Visão"/>
 
                                                     </div>
                                                 </div>
@@ -610,7 +457,7 @@
                                                 <div class="sh-gallery-item">
                                                     <div class="post-meta-thumb">
 
-                                                        <img src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/daniel-korpai-CCyTGxR3J9M-unsplash3.jpg" alt="daniel-korpai-CCyTGxR3J9M-unsplash3" />
+                                                        <img src="https://1.bp.blogspot.com/-t7bRE7GutPg/YHNK8MWV8KI/AAAAAAAAHCw/H8oGhKx9qgI_TfFH0knvMh8a1hOr2vtrQCLcBGAsYHQ/s0/manutencao-outro.png" alt="Manutenção-Outro"/>
 
                                                     </div>
                                                 </div>
@@ -619,7 +466,7 @@
                                                 <div class="sh-gallery-item">
                                                     <div class="post-meta-thumb">
 
-                                                        <img src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/daniel-korpai-CCyTGxR3J9M-unsplash2.jpg" alt="daniel-korpai-CCyTGxR3J9M-unsplash2" />
+                                                        <img src="https://1.bp.blogspot.com/-mLP7nkCd-ew/YHNLV9GseqI/AAAAAAAAHC8/HkDPg24MunwUQ8IQNO0vq7PeKC2UxAHOQCLcBGAsYHQ/s0/radio-sep.png" alt="Radio-Separado"/>
 
                                                     </div>
                                                 </div>
@@ -628,7 +475,7 @@
                                                 <div class="sh-gallery-item">
                                                     <div class="post-meta-thumb">
 
-                                                        <img src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/daniel-korpai-CCyTGxR3J9M-unsplash4.jpg" alt="daniel-korpai-CCyTGxR3J9M-unsplash4" />
+                                                        <img src="https://1.bp.blogspot.com/-Wp9YlWcKdJ0/YHNMBEdkkZI/AAAAAAAAHDI/ZOsOuCoXCAETvrch8Zc_QR2JGg2ssK_rgCLcBGAsYHQ/s0/manutencao-sep.png" alt="Manutenção-Separada"/>
 
                                                     </div>
                                                 </div>
@@ -637,7 +484,7 @@
                                                 <div class="sh-gallery-item">
                                                     <div class="post-meta-thumb">
 
-                                                        <img src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/daniel-korpai-CCyTGxR3J9M-unsplash6.jpg" alt="daniel-korpai-CCyTGxR3J9M-unsplash6" />
+                                                        <img src="https://1.bp.blogspot.com/-UvL7K0a0LJY/YHNPaWsO8_I/AAAAAAAAHDU/u9T6HfFQSis3_JGWjAdU2CBMMIzCmNw4QCLcBGAsYHQ/s0/radio-ats.png" alt="Radio-Antena"/>
 
                                                     </div>
                                                 </div>

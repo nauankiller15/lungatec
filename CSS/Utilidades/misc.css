@@ -2407,7 +2407,7 @@ blockquote {
 .info-right {
     position: absolute;
     top: auto;
-    z-index: 9999;
+    z-index: 99;
     grid-auto-columns: 1fr;
     grid-row-gap: 15px;
     -ms-grid-columns: 1fr;
@@ -3032,10 +3032,19 @@ blockquote {
     z-index: 9999
 }
 
+.icone-footer {
+    color: #fff;
+    transition: 0.4s;
+}
+
+.icone-footer:hover {
+    color: #00ecff;
+}
+
 .footer-nav-link {
     margin-right: 20px;
     transition: color .3s ease;
-    color: #adadad;
+    color: #00ecff;
     cursor: pointer;
 }
 
