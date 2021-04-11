@@ -132,7 +132,7 @@
                                                     <i class="fa fa-check"></i>
                                                 </span>
                                                 <span class="sh-list-content">
-                                                Contratadas Operadoras de Telecomunicações</span>
+                                                    Contratadas Operadoras de Telecomunicações</span>
 
                                             </li>
                                             <li class="sh-list-item">
@@ -141,7 +141,7 @@
                                                     <i class="fa fa-check"></i>
                                                 </span>
                                                 <span class="sh-list-content">
-                                                Bancos e Provedores Internet</span>
+                                                    Bancos e Provedores Internet</span>
 
                                             </li>
                                             <li class="sh-list-item">
@@ -150,7 +150,7 @@
                                                     <i class="fa fa-check"></i>
                                                 </span>
                                                 <span class="sh-list-content">
-                                                Empreiteiras</span>
+                                                    Empresas Engenharia / Projetos de Implantação </span>
 
                                             </li>
                                             <li class="sh-list-item">
@@ -159,7 +159,7 @@
                                                     <i class="fa fa-check"></i>
                                                 </span>
                                                 <span class="sh-list-content">
-                                                Empresas Engenharia /projetos de Implantação </span>
+                                                    Ampliação e Manutenção de Redes </span>
 
                                             </li>
                                             <li class="sh-list-item">
@@ -168,7 +168,7 @@
                                                     <i class="fa fa-check"></i>
                                                 </span>
                                                 <span class="sh-list-content">
-                                                Ampliação e Manutenção de Redes </span>
+                                                    Empreiteiras</span>
 
                                             </li>
                                         </ul>
@@ -205,7 +205,7 @@
                                         <div id="text-block-v8ei9wHRpg" class="sh-text-block">
                                             Instalação e configuração de todos os equipamentos importados e representados, bem como de outros fabricantes.
 
-                                            INSTALAÇÃO DE INFRAESTRUTURA
+                                            INSTALAÇÃO DE INFRAESTRUTURA:
 
                                         </div>
                                         <ul class="sh-list sh-list-vc sh-list-style1" id="list-sk4pBo9UdP">
@@ -214,21 +214,21 @@
                                                     <i class="fa fa-check"></i>
                                                 </span>
                                                 <span class="sh-list-content">
-                                                    Fibra óptica (passagem, conectorização e fusão)</span>
+                                                    Fibra óptica (Passagem, Conectorização e Fusão)</span>
                                             </li>
                                             <li class="sh-list-item">
                                                 <span class="sh-list-icon">
                                                     <i class="fa fa-check"></i>
                                                 </span>
                                                 <span class="sh-list-content">
-                                                    Cabo UTP (passagem e conectorização)</span>
+                                                    Cabo UTP (Passagem e Conectorização)</span>
                                             </li>
                                             <li class="sh-list-item">
                                                 <span class="sh-list-icon">
                                                     <i class="fa fa-check"></i>
                                                 </span>
                                                 <span class="sh-list-content">
-                                                    Torres (projeto e montagem)</span>
+                                                    Torres (Projeto e Montagem)</span>
                                             </li>
                                             <li class="sh-list-item">
                                                 <span class="sh-list-icon">
@@ -242,7 +242,7 @@
                                                     <i class="fa fa-check"></i>
                                                 </span>
                                                 <span class="sh-list-content">
-                                                    Analise espectral no local</span>
+                                                    Análise espectral no local</span>
                                             </li>
                                         </ul>
 
@@ -430,7 +430,7 @@
                                                 <div class="sh-gallery-item">
                                                     <div class="post-meta-thumb">
 
-                                                        <img src="https://1.bp.blogspot.com/-DAaMQtJ29LU/YHNJeiokONI/AAAAAAAAHCc/0IY5IvwgkAQWsm6UDxJ9mHJncwy692gngCLcBGAsYHQ/s0/manutencao.png" alt="Manutenção"/>
+                                                        <img src="https://1.bp.blogspot.com/-DAaMQtJ29LU/YHNJeiokONI/AAAAAAAAHCc/0IY5IvwgkAQWsm6UDxJ9mHJncwy692gngCLcBGAsYHQ/s0/manutencao.png" alt="Manutenção" />
 
                                                     </div>
                                                 </div>
@@ -439,7 +439,7 @@
                                                 <div class="sh-gallery-item">
                                                     <div class="post-meta-thumb">
 
-                                                        <img src="https://1.bp.blogspot.com/-k-8S05Z-mhc/YHNJ9lWXA6I/AAAAAAAAHCk/tKTU5e5xTacrHdGPW46Xd4xvfi2MdujEwCLcBGAsYHQ/s0/radios.png" alt="Radios"/>
+                                                        <img src="https://1.bp.blogspot.com/-k-8S05Z-mhc/YHNJ9lWXA6I/AAAAAAAAHCk/tKTU5e5xTacrHdGPW46Xd4xvfi2MdujEwCLcBGAsYHQ/s0/radios.png" alt="Radios" />
 
                                                     </div>
                                                 </div>
@@ -448,7 +448,7 @@
                                                 <div class="sh-gallery-item">
                                                     <div class="post-meta-thumb">
 
-                                                        <img src="https://1.bp.blogspot.com/-eq4k9fgqfuA/YHNKyA4yZgI/AAAAAAAAHCs/Np7Lu6PQTnY0x_P5Evn92CfrI1DZQkvJwCLcBGAsYHQ/s0/radio-visao.png" alt="Radios-Visão"/>
+                                                        <img src="https://1.bp.blogspot.com/-eq4k9fgqfuA/YHNKyA4yZgI/AAAAAAAAHCs/Np7Lu6PQTnY0x_P5Evn92CfrI1DZQkvJwCLcBGAsYHQ/s0/radio-visao.png" alt="Radios-Visão" />
 
                                                     </div>
                                                 </div>
@@ -457,7 +457,7 @@
                                                 <div class="sh-gallery-item">
                                                     <div class="post-meta-thumb">
 
-                                                        <img src="https://1.bp.blogspot.com/-t7bRE7GutPg/YHNK8MWV8KI/AAAAAAAAHCw/H8oGhKx9qgI_TfFH0knvMh8a1hOr2vtrQCLcBGAsYHQ/s0/manutencao-outro.png" alt="Manutenção-Outro"/>
+                                                        <img src="https://1.bp.blogspot.com/-t7bRE7GutPg/YHNK8MWV8KI/AAAAAAAAHCw/H8oGhKx9qgI_TfFH0knvMh8a1hOr2vtrQCLcBGAsYHQ/s0/manutencao-outro.png" alt="Manutenção-Outro" />
 
                                                     </div>
                                                 </div>
@@ -466,7 +466,7 @@
                                                 <div class="sh-gallery-item">
                                                     <div class="post-meta-thumb">
 
-                                                        <img src="https://1.bp.blogspot.com/-mLP7nkCd-ew/YHNLV9GseqI/AAAAAAAAHC8/HkDPg24MunwUQ8IQNO0vq7PeKC2UxAHOQCLcBGAsYHQ/s0/radio-sep.png" alt="Radio-Separado"/>
+                                                        <img src="https://1.bp.blogspot.com/-mLP7nkCd-ew/YHNLV9GseqI/AAAAAAAAHC8/HkDPg24MunwUQ8IQNO0vq7PeKC2UxAHOQCLcBGAsYHQ/s0/radio-sep.png" alt="Radio-Separado" />
 
                                                     </div>
                                                 </div>
@@ -475,7 +475,7 @@
                                                 <div class="sh-gallery-item">
                                                     <div class="post-meta-thumb">
 
-                                                        <img src="https://1.bp.blogspot.com/-Wp9YlWcKdJ0/YHNMBEdkkZI/AAAAAAAAHDI/ZOsOuCoXCAETvrch8Zc_QR2JGg2ssK_rgCLcBGAsYHQ/s0/manutencao-sep.png" alt="Manutenção-Separada"/>
+                                                        <img src="https://1.bp.blogspot.com/-Wp9YlWcKdJ0/YHNMBEdkkZI/AAAAAAAAHDI/ZOsOuCoXCAETvrch8Zc_QR2JGg2ssK_rgCLcBGAsYHQ/s0/manutencao-sep.png" alt="Manutenção-Separada" />
 
                                                     </div>
                                                 </div>
@@ -484,7 +484,7 @@
                                                 <div class="sh-gallery-item">
                                                     <div class="post-meta-thumb">
 
-                                                        <img src="https://1.bp.blogspot.com/-UvL7K0a0LJY/YHNPaWsO8_I/AAAAAAAAHDU/u9T6HfFQSis3_JGWjAdU2CBMMIzCmNw4QCLcBGAsYHQ/s0/radio-ats.png" alt="Radio-Antena"/>
+                                                        <img src="https://1.bp.blogspot.com/-UvL7K0a0LJY/YHNPaWsO8_I/AAAAAAAAHDU/u9T6HfFQSis3_JGWjAdU2CBMMIzCmNw4QCLcBGAsYHQ/s0/radio-ats.png" alt="Radio-Antena" />
 
                                                     </div>
                                                 </div>

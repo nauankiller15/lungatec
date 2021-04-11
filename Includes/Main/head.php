@@ -10,8 +10,8 @@
     <!-- STYLESHEET -->
     <link rel="stylesheet" type="text/css" href="CSS\Main\menu.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\menu.mobile.css">
-    <link rel="stylesheet" type="text/css" href="CSS\Utilidades\main-files.css">
     <link rel="stylesheet" type="text/css" href="CSS\main\footer.css">
+    <link rel="stylesheet" type="text/css" href="CSS\Utilidades\main-files.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\styles.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\misc.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\dynamics.css">
@@ -23,7 +23,7 @@
     <script src="Lib/tit.js"></script>
     <!-- ICON -->
     <link rel="icon" type="image/png" href="/fav.png" />
-    
+
     <!-- DOWNLOADER -->
     <div class="sh-page-loader sh-table sh-page-loader-style-spinner">
         <div class="sh-table-cell">

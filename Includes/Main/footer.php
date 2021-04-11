@@ -1,5 +1,5 @@
 <div id="footer">
-    <div class="footer">
+    <div class="footer back-footer">
         <div class="container-footer">
             <div class="content-left-right">
                 <div class="content-half" style="opacity: 1;">
