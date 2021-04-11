@@ -12,8 +12,8 @@
     <link rel="stylesheet" type="text/css" href="CSS\Main\menu.mobile.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\main-files.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\styles.css">
-    <link rel="stylesheet" type="text/css" href="CSS\Utilidades\misc.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\footer.css">
+    <link rel="stylesheet" type="text/css" href="CSS\Utilidades\misc.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\dynamics.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\cores.css">
     <!-- FORMATTER -->
