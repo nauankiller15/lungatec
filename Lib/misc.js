@@ -95,9 +95,7 @@ function setREVStartSize(e) {
         if (window.rs_init_css === undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));
         document.getElementById(e.c).height = newh + "px";
         window.rs_init_css.innerHTML += "#" + e.c + "_wrapper { height: " + newh + "px }";
-    } catch (e) {
-        console.log("Failure at Presize of Slider:" + e)
-    }
+    } catch (e) {}
     //});
 };
 
