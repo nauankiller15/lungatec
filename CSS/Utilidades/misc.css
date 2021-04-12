@@ -3629,6 +3629,11 @@ blockquote {
 /* RESPONSIVO MOBILE CSS */
 
 @media screen and (max-width:991px) {
+    .info-left {
+        left: 15px;
+        right: auto;
+        bottom: 270px;
+    }
     /* CABEÇALHO PAGINA */
     .ml4 {
         position: relative;
@@ -3663,7 +3668,6 @@ blockquote {
     }
     /*  */
     /*  */
-    .info-left,
     .info-right,
     .mouse-scroll {
         display: none
@@ -4035,6 +4039,11 @@ blockquote {
 }
 
 @media screen and (max-width:767px) {
+    .info-left {
+        left: 15px;
+        right: auto;
+        bottom: 232px;
+    }
     h1 {
         font-size: 64px;
         line-height: 85px
