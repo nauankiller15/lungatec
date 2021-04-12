@@ -163,7 +163,7 @@ nav .menuItems li:hover::before {
         display: block;
         background: var(--azul-fraco);
         padding: 21px;
-        color: #ffffff;
+        color: var(--preto);
     }
     nav .menuItems li:hover {
         display: block;
