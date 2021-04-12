@@ -413,7 +413,7 @@
                                         <div class="sh-heading js-scroll slide-left" id="heading-afErPwRIot">
                                             <div class="sh-element-margin">
                                                 <h2 class="sh-heading-content size-custom text-center">
-                                                    Confira aqui a galera de fotos </h2>
+                                                    Confira aqui a galeria de fotos da lungatec</h2>
                                             </div>
                                         </div>
                                         <div class="sh-empty-space vc_empty_space sh-empty-space-jgDGQf0zc5  " style="height: 120px">
