@@ -101,9 +101,9 @@
 
 /* ANIMAÇÂO PÁGINA TIME*/
 
-@keyframes TimeAnim {
+@keyframes infoleft {
     from {
-        transform: translateY(900px);
+        transform: translateY(-900px);
     }
     to {
         transform: translateY(0);

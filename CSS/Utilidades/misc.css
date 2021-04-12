@@ -2357,7 +2357,6 @@ blockquote {
     -ms-flex-align: center;
     align-items: center;
     background-color: #ffffff;
-    animation: positloader 1.0s, slideMenu 2.7s;
 }
 
 .banner.about {
@@ -2441,6 +2440,7 @@ blockquote {
     grid-column-gap: 0;
     -ms-grid-rows: auto;
     color: var(--branco);
+    animation: infoleft 2.02s ease-in-out;
 }
 
 .vertical-link {
