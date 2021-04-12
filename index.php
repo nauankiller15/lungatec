@@ -89,12 +89,17 @@
                             <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_871963452 js-scroll slide-right js-scroll slide-right">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper" style="width: 100%; max-width: 430px;margin-left: auto; margin-right: auto;">
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-1dothsXY06  " style="height: 0px">
+                                        <div class="sh-element-margin">
+
+                                            <h2 class="qualidade js-scroll fade-in-bottom">
+                                                Serviço de qualidade!</h2>
+                                        </div>
+
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-1dothsXY06" style="height: 0px">
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
 
-
-                                        <div class="sh-heading  " id="heading-7P51fHIrgk">
+                                        <div class="sh-heading" id="heading-7P51fHIrgk">
                                             <div class="sh-element-margin">
 
 
@@ -104,7 +109,7 @@
 
                                             </div>
                                         </div>
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-pgDBCZJeHi  " style="height: 20px">
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-pgDBCZJeHi" style="height: 20px">
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
 
@@ -184,15 +189,17 @@
                                         <div class="sh-empty-space vc_empty_space sh-empty-space-9YSKHANCV4  " style="height: 0px">
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
+                                        <div class="sh-element-margin">
 
+                                            <h2 class="qualidade js-scroll fade-in-bottom">
+                                                Prático e eficiente!</h2>
+                                        </div>
 
-                                        <div class="sh-heading" id="heading-GtzIFKaB97">
+                                        <div class="sh-heading js-scroll slide-left" id="heading-GtzIFKaB97">
                                             <div class="sh-element-margin">
 
-
-                                                <h2 class="sh-heading-content size-custom text-left js-scroll slide-left">
+                                                <h2 class="sh-heading-content size-custom text-left">
                                                     INSTALAÇÃO DE RADIO ELANCE </h2>
-
 
                                             </div>
                                         </div>
@@ -200,7 +207,6 @@
                                         <div class="sh-empty-space vc_empty_space sh-empty-space-ZNdqVyEHPS js-scroll slide-right" style="height: 20px">
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
-
 
                                         <div id="text-block-v8ei9wHRpg" class="sh-text-block">
                                             Instalação e configuração de todos os equipamentos importados e representados, bem como de outros fabricantes.
@@ -250,7 +256,6 @@
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
 
-
                                     </div>
                                 </div>
                             </div>
@@ -260,14 +265,11 @@
                                         <div id="single-image-8FR6DIdtPz" class="sh-single-image  ">
                                             <div class="sh-element-margin">
 
-
                                                 <div class="sh-single-image-container">
 
                                                     <img class="sh-image-url" src="https://1.bp.blogspot.com/-EhYL2jH4Jfk/YHM8gcMEYyI/AAAAAAAAHCI/qhRHDBnGBicNM-1P2StbSi7e3R3ztG4ggCLcBGAsYHQ/s0/radio.png" alt="INSTALAÇÃO DE RADIO ELANCE" />
 
-
                                                 </div>
-
 
                                             </div>
                                         </div>
@@ -292,7 +294,6 @@
                                         <div class="sh-empty-space vc_empty_space sh-empty-space-viCVd8SA2Z  " style="height: 10px">
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
-
 
                                         <div class="sh-heading  " id="heading-skEzZRL4tj">
                                             <div class="sh-element-margin">
@@ -347,7 +348,6 @@
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
 
-
                                         <div class="sh-heading  " id="heading-BEz6MJmUqD">
                                             <div class="sh-element-margin">
 
@@ -382,7 +382,6 @@
                                                 <h2 class="sh-heading-content size-custom text-center">
                                                     Cafés tomados </h2>
 
-
                                             </div>
                                         </div>
                                     </div>
@@ -400,7 +399,6 @@
 
                                                 <h2 class="sh-heading-content size-custom text-center">
                                                     Galeria </h2>
-
 
                                             </div>
                                         </div>

@@ -19,3 +19,10 @@
 .margin-servicos {
     margin-top: 5vh;
 }
+
+.qualidade {
+    font-size: 18px;
+    font-weight: 500 !important;
+    color: #2d1dff;
+    margin-bottom: 2vh;
+}
