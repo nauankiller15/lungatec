@@ -1416,6 +1416,7 @@ body {
     padding: 0 0;
     width: 420px;
     transform: translateX(420px);
+    animation: sh-opt 2.5s ease-in-out;
 }
 
 .sh-side-options.open {

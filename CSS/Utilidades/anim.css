@@ -89,12 +89,12 @@
 
 /* ANIMAÇÂO PÁGINA SOBRE*/
 
-@keyframes SobreAnim {
+@keyframes sh-opt {
     from {
-        transform: translateX(-900px);
+        transform: translateX(1000px);
     }
     to {
-        transform: translateX(0);
+        transform: translateX(420px);
     }
 }
 
