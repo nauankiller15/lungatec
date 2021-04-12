@@ -41,11 +41,11 @@
 
 
 <!-- LIBRARY -->
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 <script src="https://kit.fontawesome.com/13e0382c7c.js"></script>
 
 <!-- JS -->
+<script src="JS/animate-scroll.js"></script>
 <script src="JS/typed-effect.js"></script>
 <script src="JS/responsive-nav.js"></script>
 <script src="JS/menu.anim.js"></script>

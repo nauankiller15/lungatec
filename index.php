@@ -44,7 +44,7 @@
             <div class="content-container">
                 <div class="container entry-content">
                     <div id="content" class="page-content  page-default-content">
-                        <div class="sh-heading  " id="heading-ZEVeswvR8X">
+                        <div class="sh-heading js-scroll slide-right" id="heading-ZEVeswvR8X">
                             <div class="sh-element-margin">
 
 
@@ -55,7 +55,7 @@
                             </div>
                         </div>
 
-                        <div class="sh-empty-space vc_empty_space sh-empty-space-jXM2PZYva0  " style="height: 10px">
+                        <div class="sh-empty-space vc_empty_space sh-empty-space-jXM2PZYva0" style="height: 10px">
                             <span class="vc_empty_space_inner"></span>
                         </div>
 
@@ -64,15 +64,15 @@
                             <div class="sh-element-margin">
 
 
-                                <h2 class="sh-heading-content size-custom text-center">
+                                <h2 class="sh-heading-content size-custom text-center js-scroll slide-left">
                                     Confira aqui os serviços que são prestados </h2>
 
 
                             </div>
                         </div>
                         <!--  -->
-                        <div class="vc_row wpb_row vc_row-fluid vc_custom_1574358414311 vc_row-o-content-middle vc_row-flex vc_row_63772930">
-                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_748555517">
+                        <div class="vc_row wpb_row vc_row-fluid vc_custom_1574358414311 vc_row-o-content-middle vc_row-flex vc_row_63772930 js-scroll slide-left">
+                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_748555517 js-scroll slide-right">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper">
                                         <div id="single-image-ALnKGlO6zp" class="sh-single-image  ">
@@ -86,7 +86,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_871963452">
+                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_871963452 js-scroll slide-right js-scroll slide-right">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper" style="width: 100%; max-width: 430px;margin-left: auto; margin-right: auto;">
                                         <div class="sh-empty-space vc_empty_space sh-empty-space-1dothsXY06  " style="height: 0px">
@@ -98,7 +98,7 @@
                                             <div class="sh-element-margin">
 
 
-                                                <h2 class="sh-heading-content size-custom text-left">
+                                                <h2 class="sh-heading-content size-custom text-left js-scroll slide-left">
                                                     FUSÃO / MONTAGEM DIO </h2>
 
 
@@ -117,8 +117,7 @@
                                         </div>
 
                                         <ul class="sh-list sh-list-vc sh-list-style1" id="list-UnW7b1uJlj">
-                                            <li class="sh-list-item">
-
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
                                                 <span class="sh-list-icon">
                                                     <i class="fa fa-check"></i>
                                                 </span>
@@ -126,8 +125,8 @@
                                                     Contratadas Petrobrás</span>
 
                                             </li>
-                                            <li class="sh-list-item">
-
+                                            
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
                                                 <span class="sh-list-icon">
                                                     <i class="fa fa-check"></i>
                                                 </span>
@@ -135,8 +134,8 @@
                                                     Contratadas Operadoras de Telecomunicações</span>
 
                                             </li>
-                                            <li class="sh-list-item">
 
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
                                                 <span class="sh-list-icon">
                                                     <i class="fa fa-check"></i>
                                                 </span>
@@ -144,8 +143,8 @@
                                                     Bancos e Provedores Internet</span>
 
                                             </li>
-                                            <li class="sh-list-item">
 
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
                                                 <span class="sh-list-icon">
                                                     <i class="fa fa-check"></i>
                                                 </span>
@@ -153,8 +152,8 @@
                                                     Empresas Engenharia / Projetos de Implantação </span>
 
                                             </li>
-                                            <li class="sh-list-item">
 
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
                                                 <span class="sh-list-icon">
                                                     <i class="fa fa-check"></i>
                                                 </span>
@@ -162,7 +161,8 @@
                                                     Ampliação e Manutenção de Redes </span>
 
                                             </li>
-                                            <li class="sh-list-item">
+
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
 
                                                 <span class="sh-list-icon">
                                                     <i class="fa fa-check"></i>
@@ -177,7 +177,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="vc_row wpb_row vc_row-fluid vc_custom_1574358476308 vc_row-o-content-middle vc_row-flex vc_row_592955193 vc_row_reversed_columns">
+                        <div class="vc_row wpb_row vc_row-fluid vc_custom_1574358476308 vc_row-o-content-middle vc_row-flex vc_row_592955193 vc_row_reversed_columns js-scroll slide-right">
                             <div class="wpb_column vc_column_container vc_col-sm-6">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper" style="width: 100%; max-width: 430px;margin-left: 0; margin-right: auto;">
@@ -186,18 +186,18 @@
                                         </div>
 
 
-                                        <div class="sh-heading  " id="heading-GtzIFKaB97">
+                                        <div class="sh-heading" id="heading-GtzIFKaB97">
                                             <div class="sh-element-margin">
 
 
-                                                <h2 class="sh-heading-content size-custom text-left">
+                                                <h2 class="sh-heading-content size-custom text-left js-scroll slide-left">
                                                     INSTALAÇÃO DE RADIO ELANCE </h2>
 
 
                                             </div>
                                         </div>
 
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-ZNdqVyEHPS  " style="height: 20px">
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-ZNdqVyEHPS js-scroll slide-right" style="height: 20px">
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
 
@@ -208,45 +208,45 @@
                                             INSTALAÇÃO DE INFRAESTRUTURA:
 
                                         </div>
-                                        <ul class="sh-list sh-list-vc sh-list-style1" id="list-sk4pBo9UdP">
-                                            <li class="sh-list-item">
+                                        <ul class="sh-list sh-list-vc sh-list-style1 js-scroll slide-left" id="list-sk4pBo9UdP">
+                                            <li class="sh-list-item js-scroll fadein-bottom">
                                                 <span class="sh-list-icon">
                                                     <i class="fa fa-check"></i>
                                                 </span>
                                                 <span class="sh-list-content">
                                                     Fibra óptica (Passagem, Conectorização e Fusão)</span>
                                             </li>
-                                            <li class="sh-list-item">
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
                                                 <span class="sh-list-icon">
                                                     <i class="fa fa-check"></i>
                                                 </span>
                                                 <span class="sh-list-content">
                                                     Cabo UTP (Passagem e Conectorização)</span>
                                             </li>
-                                            <li class="sh-list-item">
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
                                                 <span class="sh-list-icon">
                                                     <i class="fa fa-check"></i>
                                                 </span>
                                                 <span class="sh-list-content">
                                                     Torres (Projeto e Montagem)</span>
                                             </li>
-                                            <li class="sh-list-item">
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
                                                 <span class="sh-list-icon">
                                                     <i class="fa fa-check"></i>
                                                 </span>
                                                 <span class="sh-list-content">
                                                     Estudo de viabilidade de RF</span>
                                             </li>
-                                            <li class="sh-list-item">
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
                                                 <span class="sh-list-icon">
                                                     <i class="fa fa-check"></i>
                                                 </span>
-                                                <span class="sh-list-content">
+                                                <span class="sh-list-content js-scroll fade-in-bottom">
                                                     Análise espectral no local</span>
                                             </li>
                                         </ul>
 
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-8RVjqkaMS6  " style="height: 35px">
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-8RVjqkaMS6 js-scroll fade-in-bottom" style="height: 35px">
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
 
@@ -395,9 +395,8 @@
                             <div class="wpb_column vc_column_container vc_col-sm-12 vc_column_459201362">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper">
-                                        <div class="sh-heading  " id="heading-ZEVeswvR8X">
+                                        <div class="sh-heading js-scroll fade-in-bottom" id="heading-ZEVeswvR8X">
                                             <div class="sh-element-margin">
-
 
                                                 <h2 class="sh-heading-content size-custom text-center">
                                                     Galeria </h2>
@@ -406,26 +405,22 @@
                                             </div>
                                         </div>
 
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-jXM2PZYva0  " style="height: 10px">
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-jXM2PZYva0 js-scroll slide-right" style="height: 10px">
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
 
 
-                                        <div class="sh-heading  " id="heading-afErPwRIot">
+                                        <div class="sh-heading js-scroll slide-left" id="heading-afErPwRIot">
                                             <div class="sh-element-margin">
-
-
                                                 <h2 class="sh-heading-content size-custom text-center">
                                                     Confira aqui a galera de fotos </h2>
-
-
                                             </div>
                                         </div>
                                         <div class="sh-empty-space vc_empty_space sh-empty-space-jgDGQf0zc5  " style="height: 120px">
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
 
-                                        <div id="image-gallery-1r8PBlzXRt" class="sh-image-gallery sh-image-gallery-noverlay sh-image-gallery-nozoom sh-image-gallery-container sh-image-gallery-dots1" data-columns="3">
+                                        <div id="image-gallery-1r8PBlzXRt" class="sh-image-gallery sh-image-gallery-noverlay sh-image-gallery-nozoom sh-image-gallery-container sh-image-gallery-dots1 js-scroll slide-right" data-columns="3">
                                             <div class="sh-image-gallery-item">
                                                 <div class="sh-gallery-item">
                                                     <div class="post-meta-thumb">
@@ -499,7 +494,7 @@
                             <div class="wpb_column vc_column_container vc_col-sm-2/5">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper" style="width: 100%; max-width: 410px;margin-left: 0; margin-right: auto;">
-                                        <div class="sh-heading  " id="heading-NurfqAcmD0">
+                                        <div class="sh-heading js-scroll fade-in-bottom" id="heading-NurfqAcmD0">
                                             <div class="sh-element-margin">
 
 
@@ -512,14 +507,10 @@
                                         </div>
 
 
-                                        <div class="sh-heading  " id="heading-jkQwNlEJAd">
+                                        <div class="sh-heading js-scroll slide-right" id="heading-jkQwNlEJAd">
                                             <div class="sh-element-margin">
-
-
                                                 <h2 class="sh-heading-content size-custom text-left">
                                                     Meus clientes amam o que fazemos </h2>
-
-
                                             </div>
                                         </div>
 
@@ -529,14 +520,10 @@
                                         </div>
 
 
-                                        <div class="sh-heading  " id="heading-JedDGINQH5">
+                                        <div class="sh-heading js-scroll slide-left" id="heading-JedDGINQH5">
                                             <div class="sh-element-margin">
-
-
                                                 <h2 class="sh-heading-content size-custom text-left">
                                                     Textos de exemplos vão ser colocados aqui </h2>
-
-
                                             </div>
                                         </div>
                                         <div class="sh-empty-space vc_empty_space sh-empty-space-n26DxBHRq0  " style="height: 70px">
@@ -544,19 +531,17 @@
                                         </div>
 
 
-                                        <div id="button-bsVZJXM0Kx" class="sh-button-container  sh-button-style-5">
+                                        <div id="button-bsVZJXM0Kx" class="sh-button-container sh-button-style-5 js-scroll slide-left">
                                             <div class="sh-element-margin">
                                                 <a href="#" target="_self" class="sh-button sh-button-medium ">
-
 
                                                     <span class="sh-button-text">
                                                         Entre em contato! </span>
 
-
                                                 </a>
                                             </div>
                                         </div>
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-vEHK72aGrB  " style="height: 29px">
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-vEHK72aGrB" style="height: 29px">
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
 
@@ -569,9 +554,8 @@
                                         <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1574689786687 vc_row-has-fill vc_row-o-content-middle vc_row-flex vc_row_912246651">
                                             <div class="wpb_column vc_column_container vc_col-sm-8">
                                                 <div class="vc_column-inner ">
-                                                    <div class="wpb_wrapper">
+                                                    <div class="wpb_wrapper js-scroll fade-in-bottom">
                                                         <div id="icon-PyO5C89L0F" class="sh-icon  sh-icon-left">
-
 
                                                             <div class="sh-element-margin">
                                                                 <div class="sh-icon-container">
@@ -608,18 +592,13 @@
                                             <div class="wpb_column vc_column_container vc_col-sm-4">
                                                 <div class="vc_column-inner vc_custom_1574431236783">
                                                     <div class="wpb_wrapper">
-                                                        <div id="single-image-Iu8gB1Npe4" class="sh-single-image  ">
+                                                        <div id="single-image-Iu8gB1Npe4" class="sh-single-image">
                                                             <div class="sh-element-margin">
-
-
                                                                 <div class="sh-single-image-container">
 
-                                                                    <img class="sh-image-url" src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/azamat-zhanisov-vI5jmWdv7hY-unsplash2.jpg" alt="azamat-zhanisov-vI5jmWdv7hY-unsplash2" />
-
-
+                                                                    <img class="sh-image-url js-scroll slide-right" src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/azamat-zhanisov-vI5jmWdv7hY-unsplash2.jpg" alt="azamat-zhanisov-vI5jmWdv7hY-unsplash2" />
+                                                               
                                                                 </div>
-
-
                                                             </div>
                                                         </div>
                                                     </div>
@@ -628,11 +607,9 @@
                                         </div>
                                         <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1574689921019 vc_row-has-fill vc_row-o-content-middle vc_row-flex vc_row_325933551">
                                             <div class="wpb_column vc_column_container vc_col-sm-8">
-                                                <div class="vc_column-inner ">
+                                                <div class="vc_column-inner js-scroll fade-in-bottom">
                                                     <div class="wpb_wrapper">
                                                         <div id="icon-Ni0bCrOjxs" class="sh-icon  sh-icon-left">
-
-
                                                             <div class="sh-element-margin">
                                                                 <div class="sh-icon-container">
                                                                     <i class="sh-icon-data fa fa-quote-right"></i>
@@ -670,16 +647,11 @@
                                                     <div class="wpb_wrapper">
                                                         <div id="single-image-uM0XGRZo8V" class="sh-single-image  ">
                                                             <div class="sh-element-margin">
-
-
-                                                                <div class="sh-single-image-container">
-
+                                                                <div class="sh-single-image-container js-scroll slide-right">
+                                                                    
                                                                     <img class="sh-image-url" src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/azamat-zhanisov-vI5jmWdv7hY-unsplash1.jpg" alt="azamat-zhanisov-vI5jmWdv7hY-unsplash1" />
-
-
+                                                               
                                                                 </div>
-
-
                                                             </div>
                                                         </div>
                                                     </div>
@@ -693,9 +665,9 @@
                         <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1574349562032 vc_row_824162599">
                             <div class="wpb_column vc_column_container vc_col-sm-12 vc_column_808578462">
                                 <div class="vc_column-inner ">
-                                    <div class="wpb_wrapper">
+                                    <div class="wpb_wrapper js-scroll fade-in-bottom">
 
-                                        <h2 class="sh-heading-content size-custom text-center">
+                                        <h2 class="sh-heading-content size-custom text-center js-scroll slide-right">
                                             Parceiros </h2>
                                         <div class="sh-empty-space vc_empty_space sh-empty-space-jgDGQf0zc5  " style="height: 120px">
                                             <span class="vc_empty_space_inner"></span>
@@ -826,7 +798,8 @@
             </div>
         </div>
 
-        <?php include("Includes/Main/footer.php"); ?>
 </body>
+
+<?php include("Includes/Main/footer.php"); ?>
 
 </html>

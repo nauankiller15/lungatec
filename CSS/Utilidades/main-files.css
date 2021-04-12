@@ -1512,11 +1512,7 @@ body {
     }
 }
 
-@media (max-width: 600px) {
-    .sh-side-options {
-        display: none;
-    }
-}
+@media (max-width: 600px) {}
 
 @media (max-height: 500px) {
     .sh-side-options {

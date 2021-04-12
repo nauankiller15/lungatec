@@ -12002,7 +12002,7 @@ jQuery(document).ready(function($) {
         var partner_carousel_columns_responsive2 = 2;
         if (partner_carousel_columns > 4) { partner_carousel_columns_responsive1 = 4; }
         if (partner_carousel_columns == 1) { partner_carousel_columns_responsive2 = 1; }
-        if (partner_autoplay < 1 || !partner_autoplay) { partner_autoplay = 5000; }
+        if (partner_autoplay < 1 || !partner_autoplay) { partner_autoplay = 2000; }
         $(this).slick({ infinite: true, dots: false, arrows: false, slidesToShow: partner_carousel_columns, slidesToScroll: 1, autoplay: true, autoplaySpeed: partner_autoplay, responsive: [{ breakpoint: 1025, settings: { slidesToShow: partner_carousel_columns_responsive1 } }, { breakpoint: 800, settings: { slidesToShow: partner_carousel_columns_responsive2, pauseOnHover: false } }, { breakpoint: 550, settings: { slidesToShow: 1, pauseOnHover: false } }], });
     })
     $('.sh-recent-products-carousel .products').each(function() {

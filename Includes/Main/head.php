@@ -14,6 +14,9 @@
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\styles.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\footer.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\misc.css">
+    <!-- ANIMATE ON SCROLL -->
+    <link rel="stylesheet" type="text/css" href="CSS\Utilidades\animate-scroll.css">
+    <!--  -->
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\dynamics.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\cores.css">
     <!-- FORMATTER -->
