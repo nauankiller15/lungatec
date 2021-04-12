@@ -89,15 +89,16 @@
                             <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_871963452 js-scroll slide-right js-scroll slide-right">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper" style="width: 100%; max-width: 430px;margin-left: auto; margin-right: auto;">
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-1dothsXY06" style="height: 0px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+
                                         <div class="sh-element-margin">
 
                                             <h2 class="qualidade js-scroll fade-in-bottom">
                                                 Serviço de qualidade!</h2>
                                         </div>
 
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-1dothsXY06" style="height: 0px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
 
                                         <div class="sh-heading" id="heading-7P51fHIrgk">
                                             <div class="sh-element-margin">
@@ -664,9 +665,27 @@
                             <div class="wpb_column vc_column_container vc_col-sm-12 vc_column_808578462">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper js-scroll fade-in-bottom">
+                                        <div class="sh-heading js-scroll slide-right" id="heading-ZEVeswvR8X">
+                                            <div class="sh-element-margin">
 
-                                        <h2 class="sh-heading-content size-custom text-center js-scroll slide-right">
-                                            Parceiros </h2>
+                                                <h2 class="sh-heading-content size-custom text-center margin-servicos">
+                                                    Parceiros </h2>
+
+                                            </div>
+                                        </div>
+
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-jXM2PZYva0" style="height: 10px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+
+                                        <div class="sh-heading  " id="heading-afErPwRIot">
+                                            <div class="sh-element-margin">
+
+                                                <h2 class="sh-heading-content size-custom text-center js-scroll slide-left">
+                                                    Confira aqui nossos parceiros</h2>
+
+                                            </div>
+                                        </div>
                                         <div class="sh-empty-space vc_empty_space sh-empty-space-jgDGQf0zc5  " style="height: 120px">
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
