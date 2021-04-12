@@ -10,6 +10,7 @@
 }
 
 .ml4 .letters {
+    position: absolute;
     opacity: 0;
     color: var(--branco);
 }

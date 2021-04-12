@@ -204,7 +204,7 @@ nav .menuItems li:hover::before {
         font-weight: bold;
         margin: 21px 10px 19px 9px;
         color: var(--cor-menu);
-        border: 2px solid var(--cor-borda-menu);
+        border: 2px solid var(--azul-contato);
         padding: 13px 33px;
         display: inline-block;
         position: relative;
@@ -230,13 +230,14 @@ nav .menuItems li:hover::before {
         top: 0;
         bottom: 0;
         margin: auto;
-        background: var(--cor-background-menu);
+        background: var(--azul-contato);
         -webkit-transition: -webkit-transform 0.2s ease;
         transition: transform 0.4s ease;
         z-index: 0;
         opacity: 0;
         cursor: pointer;
         transition: 0.5s;
+        color: var(--azul-contato);
     }
     .contato:hover:before {
         -webkit-transform: scaleX(200);

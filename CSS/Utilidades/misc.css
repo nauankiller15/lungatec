@@ -2415,7 +2415,6 @@ blockquote {
     font-size: 18px;
     line-height: 28px;
     font-weight: 400;
-    font-family: Heebo, sans-serif
 }
 
 .alpha:hover {
@@ -2425,9 +2424,9 @@ blockquote {
 }
 
 .info-left {
-    left: 63px;
+    left: 160px;
     right: auto;
-    bottom: 105px;
+    bottom: 70px;
     display: -webkit-box;
     display: flex;
     -webkit-box-pack: center;
@@ -2440,7 +2439,7 @@ blockquote {
     align-items: center;
     grid-column-gap: 0;
     -ms-grid-rows: auto;
-    color: #fff;
+    color: var(--branco);
 }
 
 .vertical-link {
@@ -2526,7 +2525,7 @@ blockquote {
 }
 
 .container-banner {
-    top: -6vh;
+    top: -10vh;
     z-index: 10;
     margin-right: 9vw;
     margin-left: 9vw

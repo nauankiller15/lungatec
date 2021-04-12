@@ -15,12 +15,6 @@
     transition: .3s all
 }
 
-.sh-settings-active {
-    -webkit-transform: translateX(0px)!important;
-    -ms-transform: translateX(0px)!important;
-    transform: translateX(0px)!important
-}
-
 .sh-settings-container {
     width: 320px;
     right: -17px
