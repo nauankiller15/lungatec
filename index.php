@@ -125,7 +125,7 @@
                                                     Contratadas Petrobrás</span>
 
                                             </li>
-                                            
+
                                             <li class="sh-list-item js-scroll fade-in-bottom">
                                                 <span class="sh-list-icon">
                                                     <i class="fa fa-check"></i>
@@ -241,7 +241,7 @@
                                                 <span class="sh-list-icon">
                                                     <i class="fa fa-check"></i>
                                                 </span>
-                                                <span class="sh-list-content js-scroll fade-in-bottom">
+                                                <span class="sh-list-content">
                                                     Análise espectral no local</span>
                                             </li>
                                         </ul>
@@ -597,7 +597,7 @@
                                                                 <div class="sh-single-image-container">
 
                                                                     <img class="sh-image-url js-scroll slide-right" src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/azamat-zhanisov-vI5jmWdv7hY-unsplash2.jpg" alt="azamat-zhanisov-vI5jmWdv7hY-unsplash2" />
-                                                               
+
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -648,9 +648,9 @@
                                                         <div id="single-image-uM0XGRZo8V" class="sh-single-image">
                                                             <div class="sh-element-margin">
                                                                 <div class="sh-single-image-container">
-                                                                    
+
                                                                     <img class="sh-image-url js-scroll slide-right" src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/azamat-zhanisov-vI5jmWdv7hY-unsplash1.jpg" alt="azamat-zhanisov-vI5jmWdv7hY-unsplash1" />
-                                                               
+
                                                                 </div>
                                                             </div>
                                                         </div>
