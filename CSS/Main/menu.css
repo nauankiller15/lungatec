@@ -161,7 +161,7 @@ nav .menuItems li:hover::before {
     }
     nav .menuItems li.active {
         display: block;
-        background: var(--cor-borda-menu);
+        background: var(--azul-fraco);
         padding: 21px;
         color: #ffffff;
     }
