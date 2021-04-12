@@ -609,7 +609,7 @@
                                             <div class="wpb_column vc_column_container vc_col-sm-8">
                                                 <div class="vc_column-inner js-scroll fade-in-bottom">
                                                     <div class="wpb_wrapper">
-                                                        <div id="icon-Ni0bCrOjxs" class="sh-icon  sh-icon-left">
+                                                        <div id="icon-Ni0bCrOjxs" class="sh-icon sh-icon-left">
                                                             <div class="sh-element-margin">
                                                                 <div class="sh-icon-container">
                                                                     <i class="sh-icon-data fa fa-quote-right"></i>
@@ -617,7 +617,7 @@
                                                             </div>
 
                                                         </div>
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-3ywiXaqC1G  " style="height: 20px">
+                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-3ywiXaqC1G" style="height: 20px">
                                                             <span class="vc_empty_space_inner"></span>
                                                         </div>
 
@@ -635,7 +635,7 @@
                                                             </div>
                                                         </div>
 
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-bC53suymYo  " style="height: 40px">
+                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-bC53suymYo" style="height: 40px">
                                                             <span class="vc_empty_space_inner"></span>
                                                         </div>
 
@@ -645,11 +645,11 @@
                                             <div class="wpb_column vc_column_container vc_col-sm-4">
                                                 <div class="vc_column-inner vc_custom_1574349251683">
                                                     <div class="wpb_wrapper">
-                                                        <div id="single-image-uM0XGRZo8V" class="sh-single-image  ">
+                                                        <div id="single-image-uM0XGRZo8V" class="sh-single-image">
                                                             <div class="sh-element-margin">
-                                                                <div class="sh-single-image-container js-scroll slide-right">
+                                                                <div class="sh-single-image-container">
                                                                     
-                                                                    <img class="sh-image-url" src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/azamat-zhanisov-vI5jmWdv7hY-unsplash1.jpg" alt="azamat-zhanisov-vI5jmWdv7hY-unsplash1" />
+                                                                    <img class="sh-image-url js-scroll slide-right" src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/azamat-zhanisov-vI5jmWdv7hY-unsplash1.jpg" alt="azamat-zhanisov-vI5jmWdv7hY-unsplash1" />
                                                                
                                                                 </div>
                                                             </div>

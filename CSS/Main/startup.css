@@ -16351,14 +16351,6 @@ body.rtl .wrap-forms .field-columns-3 .field-column {
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
 
-@font-face {
-    font-family: 'FontAwesome';
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/unyson/framework/static/libs/font-awesome/css/../fonts/fontawesome-webfont.eot?v=4.7.0);
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/unyson/framework/static/libs/font-awesome/css/../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format('embedded-opentype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/unyson/framework/static/libs/font-awesome/css/../fonts/fontawesome-webfont.woff2?v=4.7.0) format('woff2'), url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/unyson/framework/static/libs/font-awesome/css/../fonts/fontawesome-webfont.woff?v=4.7.0) format('woff'), url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/unyson/framework/static/libs/font-awesome/css/../fonts/fontawesome-webfont.ttf?v=4.7.0) format('truetype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/unyson/framework/static/libs/font-awesome/css/../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format('svg');
-    font-weight: normal;
-    font-style: normal
-}
-
 .fa {
     display: inline-block;
     font: normal normal normal 14px/1 FontAwesome;
@@ -21177,14 +21169,6 @@ body.rtl .wrap-forms .field-columns-3 .field-column {
 
 .vc_pixel_icon-video {
     background-image: url(//cdn.jevelin.shufflehound.com/startup-creative/wp-content/plugins/js_composer/assets/css/../images/icons/video.png)
-}
-
-@font-face {
-    font-family: vcpb-plugin-icons;
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/js_composer/assets/css/../fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62);
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/js_composer/assets/css/../fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62#iefix) format('embedded-opentype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/js_composer/assets/css/../fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62) format('truetype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/js_composer/assets/css/../fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62) format('woff'), url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/js_composer/assets/css/../fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62#vcpb-plugin-icons) format('svg');
-    font-weight: 400;
-    font-style: normal
 }
 
 .vc-composer-icon {
@@ -39075,14 +39059,6 @@ body .wpb_gallery_slides ul li {
     transform: rotateY(-180deg)
 }
 
-@font-face {
-    font-family: vc_grid_v1;
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/js_composer/assets/css/../fonts/vc_grid/vc_grid_v1.eot?-9hbgac);
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/js_composer/assets/css/../fonts/vc_grid/vc_grid_v1.eot?#iefix-9hbgac) format('embedded-opentype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/js_composer/assets/css/../fonts/vc_grid/vc_grid_v1.woff?-9hbgac) format('woff'), url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/js_composer/assets/css/../fonts/vc_grid/vc_grid_v1.ttf?-9hbgac) format('truetype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/js_composer/assets/css/../fonts/vc_grid/vc_grid_v1.svg?-9hbgac#vc_grid_v1) format('svg');
-    font-weight: 400;
-    font-style: normal
-}
-
 [class*=" vc_arrow-icon-"],
 [class^=vc_arrow-icon-] {
     font-family: vc_grid_v1;
@@ -39928,12 +39904,6 @@ th {
     .table-bordered th {
         border: 1px solid #ddd!important
     }
-}
-
-@font-face {
-    font-family: 'Glyphicons Halflings';
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/plugins/../fonts/glyphicons-halflings-regular.eot);
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/plugins/../fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/plugins/../fonts/glyphicons-halflings-regular.woff2) format('woff2'), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/plugins/../fonts/glyphicons-halflings-regular.woff) format('woff'), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/plugins/../fonts/glyphicons-halflings-regular.ttf) format('truetype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/plugins/../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')
 }
 
 .glyphicon {
@@ -51282,14 +51252,6 @@ img.jssocials-share-logo {
  * @version		2.4.0 (09/04/2017)
  */
 
-@font-face {
-    font-family: 'lightcase';
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/lightcase.eot?55356177);
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/lightcase.eot?55356177#iefix) format("embedded-opentype"), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/lightcase.woff?55356177) format("woff"), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/lightcase.ttf?55356177) format("truetype"), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/lightcase.svg?55356177#lightcase) format("svg");
-    font-weight: 400;
-    font-style: normal
-}
-
 [class*='lightcase-icon-']:before {
     font-family: 'lightcase', sans-serif;
     font-style: normal;
@@ -51811,14 +51773,6 @@ a[class*='lightcase-icon-'].lightcase-icon-play {
 
 
 /* Better Font Rendering =========== */
-
-@font-face {
-    font-family: 'Pe-icon-7-stroke';
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/Pe-icon-7-stroke.eot);
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/Pe-icon-7-stroke.eot) format('embedded-opentype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/Pe-icon-7-stroke.woff) format('woff'), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/Pe-icon-7-stroke.ttf) format('truetype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/Pe-icon-7-stroke.svg) format('svg');
-    font-weight: 400;
-    font-style: normal
-}
 
 [class^="pe-7s-"],
 [class*=" pe-7s-"] {
@@ -52647,14 +52601,6 @@ a[class*='lightcase-icon-'].lightcase-icon-play {
  Use the following CSS code if you want to have a class per icon.
  Instead of a list of all class selectors, you can use the generic [class*="icon-"] selector, but it's slower:
 */
-
-@font-face {
-    font-family: 'simple-line-icons';
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/Simple-Line-Icons.eot?ver=2.4.0);
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/Simple-Line-Icons.eot?ver=2.4.0#iefix) format('embedded-opentype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/Simple-Line-Icons.woff2?ver=2.4.0) format('woff2'), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/Simple-Line-Icons.ttf?ver=2.4.0) format('truetype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/Simple-Line-Icons.woff?ver=2.4.0) format('woff'), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/Simple-Line-Icons.svg?ver=2.4.0#simple-line-icons) format('svg');
-    font-weight: 400;
-    font-style: normal
-}
 
 .icon-user,
 .icon-people,
@@ -54437,14 +54383,6 @@ a[class*='lightcase-icon-'].lightcase-icon-play {
 
 
 /* Better Font Rendering =========== */
-
-@font-face {
-    font-family: 'themify';
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/themify.eot);
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/themify.eot) format('embedded-opentype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/themify.woff) format('woff'), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/themify.ttf) format('truetype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/themes/jevelin/css/../fonts/themify.svg) format('svg');
-    font-weight: 400;
-    font-style: normal
-}
 
 [class^="ti-"],
 [class*=" ti-"] {
@@ -76507,14 +76445,6 @@ a.plyr__control:before {
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
-
-@font-face {
-    font-family: 'FontAwesome';
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/../fonts/fontawesome-webfont.eot?v=4.7.0);
-    src: url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format('embedded-opentype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/../fonts/fontawesome-webfont.woff2?v=4.7.0) format('woff2'), url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/../fonts/fontawesome-webfont.woff?v=4.7.0) format('woff'), url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/../fonts/fontawesome-webfont.ttf?v=4.7.0) format('truetype'), url(//jevelin.shufflehound.com/startup-creative/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format('svg');
-    font-weight: 400;
-    font-style: normal
-}
 
 .fa-lg {
     font-size: 1.33333333em;

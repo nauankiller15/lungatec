@@ -53,6 +53,5 @@
 <script type="text/html" id="wpb-modifications"></script>
 <link href="https://fonts.googleapis.com/css?family=Montserrat:700%2C700italic%2C500%7CRoboto:400" rel="stylesheet" property="stylesheet" media="all" type="text/css">
 <script>
-    AOS.init();
     MenuAtivo();
 </script>

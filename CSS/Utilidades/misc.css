@@ -2356,7 +2356,8 @@ blockquote {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    background-color: #ffffff
+    background-color: #ffffff;
+    animation: positloader 1.0s, slideMenu 2.7s;
 }
 
 .banner.about {
