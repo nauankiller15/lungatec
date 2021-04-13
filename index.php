@@ -8,10 +8,11 @@
             <div class="middle-line"></div>
             <a href="#" target="_blank" class="vertical-link">
                 <i class="fab fa-facebook-f"></i></a>
-            <a href="https://www.instagram.com/baianeagencia/" target="_blank" class="vertical-link">
+            <a href="https://www.instagram.com/lungatec/" target="_blank" class="vertical-link">
                 <i class="fab fa-instagram"></i></a>
-            <a href="https://wa.me/message/YYTYX6HFNW6JC1" target="_blank" class="vertical-link">
+            <a href="https://api.whatsapp.com/send/?phone=557183145450&text&app_absent=0" target="_blank" class="vertical-link">
                 <i class="fab fa-whatsapp"></i></i></a>
+
         </div>
         <div class="info-right">
             <div>Salvador - BA</div>
@@ -79,7 +80,7 @@
                                             <div class="sh-element-margin">
                                                 <div class="sh-single-image-container">
 
-                                                    <img class="sh-image-url" src="https://1.bp.blogspot.com/-kstlfaWkosc/YHNCLok455I/AAAAAAAAHCU/rkOFiFbJGH8mE3jR-kE4RCD4XqMUg9-WgCLcBGAsYHQ/s0/fusao%2Bde%2Bmontagem%2Bdio.png" alt="daniel-korpai-xgffTVZs1FI-unsplash1" />
+                                                    <img class="sh-image-url" src="https://1.bp.blogspot.com/-kstlfaWkosc/YHNCLok455I/AAAAAAAAHCU/rkOFiFbJGH8mE3jR-kE4RCD4XqMUg9-WgCLcBGAsYHQ/s0/fusao%2Bde%2Bmontagem%2Bdio.png" alt="Fusão / Montagem DIO" />
                                                 </div>
                                             </div>
                                         </div>
@@ -183,6 +184,7 @@
                                 </div>
                             </div>
                         </div>
+                        <!--  -->
                         <div class="vc_row wpb_row vc_row-fluid vc_custom_1574358476308 vc_row-o-content-middle vc_row-flex vc_row_592955193 vc_row_reversed_columns js-scroll slide-right">
                             <div class="wpb_column vc_column_container vc_col-sm-6">
                                 <div class="vc_column-inner ">
@@ -200,7 +202,7 @@
                                             <div class="sh-element-margin">
 
                                                 <h2 class="sh-heading-content size-custom text-left">
-                                                    INSTALAÇÃO DE RADIO ELANCE </h2>
+                                                    INSTALAÇÃO DE RÁDIO ELANCE </h2>
 
                                             </div>
                                         </div>
@@ -260,6 +262,7 @@
                                     </div>
                                 </div>
                             </div>
+
                             <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_814805936">
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper">
@@ -268,7 +271,7 @@
 
                                                 <div class="sh-single-image-container">
 
-                                                    <img class="sh-image-url" src="https://1.bp.blogspot.com/-EhYL2jH4Jfk/YHM8gcMEYyI/AAAAAAAAHCI/qhRHDBnGBicNM-1P2StbSi7e3R3ztG4ggCLcBGAsYHQ/s0/radio.png" alt="INSTALAÇÃO DE RADIO ELANCE" />
+                                                    <img class="sh-image-url" src="https://1.bp.blogspot.com/-EhYL2jH4Jfk/YHM8gcMEYyI/AAAAAAAAHCI/qhRHDBnGBicNM-1P2StbSi7e3R3ztG4ggCLcBGAsYHQ/s0/radio.png" alt="Instalação de Rádio Elance" />
 
                                                 </div>
 
@@ -278,8 +281,128 @@
                                     </div>
                                 </div>
                             </div>
-
                         </div>
+
+                        <div class="vc_row wpb_row vc_row-fluid vc_custom_1574358414311 vc_row-o-content-middle vc_row-flex vc_row_63772930 js-scroll slide-left">
+                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_748555517 js-scroll slide-right">
+                                <div class="vc_column-inner ">
+                                    <div class="wpb_wrapper">
+                                        <div id="single-image-ALnKGlO6zp" class="sh-single-image  ">
+                                            <div class="sh-element-margin">
+                                                <div class="sh-single-image-container">
+
+                                                    <img class="sh-image-url" src="https://1.bp.blogspot.com/-3HeBR6PJAJ4/YHTnR5_jVXI/AAAAAAAAHDg/vMQB-a7mDIs78lMgFek6O7BOlcSpCHsAgCLcBGAsYHQ/s0/cabeamento%2Bestruturado.png" alt="Cabeamento Estruturado" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_871963452 js-scroll slide-right js-scroll slide-right">
+                                <div class="vc_column-inner ">
+                                    <div class="wpb_wrapper" style="width: 100%; max-width: 430px;margin-left: auto; margin-right: auto;">
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-1dothsXY06" style="height: 0px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+
+                                        <div class="sh-element-margin">
+
+                                            <h2 class="qualidade js-scroll fade-in-bottom">
+                                                Serviço feito com Certificador de Rede!</h2>
+                                        </div>
+
+
+                                        <div class="sh-heading" id="heading-7P51fHIrgk">
+                                            <div class="sh-element-margin">
+
+
+                                                <h2 class="sh-heading-content size-custom text-left js-scroll slide-left">
+                                                    CABEAMENTO ESTRUTURADO </h2>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-pgDBCZJeHi" style="height: 20px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+                                        <div id="text-block-v8ei9wHRpg" class="sh-text-block">
+                                            Projetos e Instalações de Cabeamento Estruturado com entrega de “As Built”; Dimensionamento de serviços e sua viabilidade técnica; Projeto, instalação e conectorização de redes em fibra óptica; Projeto, instalação e manutenção de redes de dados e voz;
+                                            Projetos físicos e lógicos; Cabeamento UTP nas categorias 5, 5e e 6, 6a; Instalação de pontos de redes adicionais; Mapeamento de rede e de cabeamento estruturado;
+                                        </div>
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-NpTVlAIw4O  " style="height: 25px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+
+                                        <ul class="sh-list sh-list-vc sh-list-style1" id="list-UnW7b1uJlj">
+
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                    Identificação, certificação e mapeamento de redes Cat5e, Cat6 e fibra óptica</span>
+
+                                            </li>
+
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                    Montagem de racks com projeto de otimização empregando Switches KVM</span>
+
+                                            </li>
+
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                    Organização de Datacenters e racks</span>
+
+                                            </li>
+
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                    Gerenciamento da camada Física através de hardware gerenciável</span>
+
+                                            </li>
+
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                    Testes, Certificação e Garantia estendida de 25 anos</span>
+
+                                            </li>
+
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                    Preparação do ambiente de instalação com Pisos Elevados, Forros e Divisórias em Drywall</span>
+
+                                            </li>
+
+
+                                        </ul>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                         <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1574358254466 vc_row-has-fill vc_row-no-padding vc_row_617888738">
                             <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-xs-6">
                                 <div class="vc_column-inner ">
@@ -795,7 +918,8 @@
                     </div>
                 </a>
 
-                <a href="#" target="_blank" class="sh-side-options-item sh-side-options-item-trigger-demos sh-accent-color">
+                <a href="https://api.whatsapp.com/send/?phone=557183145450&text&app_absent=0" target="_blank" class="sh-side-options-item sh-accent-color">
+                    <!-- sh-side-options-item sh-side-options-item-trigger-demos sh-accent-color -->
                     <div class="sh-side-options-item-container">
                         <i class="fab fa-whatsapp"></i>
                     </div>
@@ -804,7 +928,7 @@
                     </div>
                 </a>
 
-                <a href="#" target="_blank" class="sh-side-options-item sh-side-options-item-trigger-demos sh-accent-color">
+                <a href="https://www.instagram.com/lungatec/" target="_blank" class="sh-side-options-item sh-accent-color">
                     <div class="sh-side-options-item-container">
                         <i class="fab fa-instagram"></i>
                     </div>

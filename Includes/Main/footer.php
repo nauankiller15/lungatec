@@ -11,8 +11,8 @@
                 <div class="content-half c-footer">
                     <div class="top">
                         <div class="footer-title">Entre em contato</div>
-                        <div><a class="footer-nav-link" href="mailto:lungatec@email.com?subject=Olá%20Baianê%20"><i style="margin-right:12px;" class="fas fa-envelope icone-footer"></i>lungatec@email.com</a></div>
-                        <div><a class="footer-nav-link" href="tel:(71) 9 0000-0000"><i style="margin-right:12px;" class="fas fa-phone-alt icone-footer"></i>(71) 9 0000-0000</a></div>
+                        <div><a class="footer-nav-link" href="mailto:contatolungatec@gmail.com?subject=Olá%20Lungatec%20"><i style="margin-right:12px;" class="fas fa-envelope icone-footer"></i>contatolungatec@gmail.com</a></div>
+                        <div><a class="footer-nav-link" href="tel:(71) 9 9641-4531"><i style="margin-right:12px;" class="fas fa-phone-alt icone-footer"></i>(71) 9 9641-4531</a></div>
                     </div>
                     <div class="bottom">
                         <div class="footer-title">Navegação</div>

@@ -26,7 +26,7 @@
     <!-- ANT JS  -->
     <script src="Lib/tit.js"></script>
     <!-- ICON -->
-    <link rel="icon" type="image/png" href="/fav.png" />
+    <link rel="icon" type="image/png" href="Imagens/favicon-32x32.png" />
 
     <!-- LOADER -->
     <div class="sh-page-loader sh-table sh-page-loader-style-spinner">
