@@ -25,7 +25,7 @@
         <div class="container-banner">
             <div class="banner-content-half">
                 <h1 class="ml4">
-                    A Lungatec vai ajudar você a conquistar <div class="middle-line"></div>
+                    A Lungatec vai ajudar você a conquistar <div class="middle-line" style="opacity:0"></div>
                     <span class="letters letters-1">metas</span>
                     <span class="letters letters-2">objetivos</span>
                     <span class="letters letters-3">sonhos</span>
@@ -381,16 +381,6 @@
                                                     <i class="fa fa-check"></i>
                                                 </span>
                                                 <span class="sh-list-content">
-                                                    Testes, Certificação e Garantia estendida de 25 anos</span>
-
-                                            </li>
-
-                                            <li class="sh-list-item js-scroll fade-in-bottom">
-
-                                                <span class="sh-list-icon">
-                                                    <i class="fa fa-check"></i>
-                                                </span>
-                                                <span class="sh-list-content">
                                                     Preparação do ambiente de instalação com Pisos Elevados, Forros e Divisórias em Drywall</span>
 
                                             </li>
@@ -402,7 +392,93 @@
                                 </div>
                             </div>
                         </div>
+                        <!--  -->
 
+                        <div class="vc_row wpb_row vc_row-fluid vc_custom_1574358476308 vc_row-o-content-middle vc_row-flex vc_row_592955193 vc_row_reversed_columns js-scroll slide-right">
+                            <div class="wpb_column vc_column_container vc_col-sm-6">
+                                <div class="vc_column-inner ">
+                                    <div class="wpb_wrapper" style="width: 100%; max-width: 430px;margin-left: 0; margin-right: auto;">
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-9YSKHANCV4  " style="height: 0px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+                                        <div class="sh-element-margin">
+
+                                            <h2 class="qualidade js-scroll fade-in-bottom">
+                                                Fundamental e essencial!</h2>
+                                        </div>
+
+                                        <div class="sh-heading js-scroll slide-left" id="heading-GtzIFKaB97">
+                                            <div class="sh-element-margin">
+
+                                                <h2 class="sh-heading-content size-custom text-left">
+                                                    SERVIÇO DE ELÉTRICA </h2>
+
+                                            </div>
+                                        </div>
+
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-ZNdqVyEHPS js-scroll slide-right" style="height: 20px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+
+                                        <div id="text-block-v8ei9wHRpg" class="sh-text-block">
+                                            O serviço de elétrica em geral é necessário para qualquer instalação doméstica ou industrial, seja para a montagem da primeira estrutura, em imóveis novos, ou para que reparos, adequações e atualizações sejam realizadas de forma segura e de acordo com os padrões atuais de segurança. Com o serviço de elétrica em geral é possível ainda a manutenção preventiva, o que impede que problemas futuros venham ocorrer.
+
+                                        </div>
+                                        <ul class="sh-list sh-list-vc sh-list-style1 js-scroll slide-left" id="list-sk4pBo9UdP">
+                                            <li class="sh-list-item js-scroll fadein-bottom">
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                    Predial</span>
+                                            </li>
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                    Residencial</span>
+                                            </li>
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                    Industrial</span>
+                                            </li>
+                                        </ul>
+
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-8RVjqkaMS6 js-scroll fade-in-bottom" style="height: 35px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_814805936">
+                                <div class="vc_column-inner ">
+                                    <div class="wpb_wrapper">
+                                        <div id="single-image-8FR6DIdtPz" class="sh-single-image  ">
+                                            <div class="sh-element-margin">
+
+                                                <div class="sh-single-image-container">
+
+                                                    <img class="sh-image-url" src="https://1.bp.blogspot.com/-4Yl-fwF-uhk/YHeA0O3297I/AAAAAAAAHDo/M5pIwDpGUb0mr2Rq7bwHKY6DPsw69wIQgCLcBGAsYHQ/s0/servico-eletrico.png" alt="Serviço Elétrico"/>
+
+                                                </div>
+
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--  -->
+                        <div class="sh-empty-space vc_empty_space sh-empty-space-pgDBCZJeHi" style="height: 20px">
+                            <span class="vc_empty_space_inner"></span>
+                        </div>
                         <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1574358254466 vc_row-has-fill vc_row-no-padding vc_row_617888738">
                             <div class="wpb_column vc_column_container vc_col-sm-3 vc_col-xs-6">
                                 <div class="vc_column-inner ">
@@ -612,178 +688,7 @@
                             </div>
                         </div>
                         <div class="vc_row-full-width vc_clearfix"></div>
-                        <div class="vc_row wpb_row vc_row-fluid vc_custom_1574430265263 vc_row_647611654">
-                            <div class="wpb_column vc_column_container vc_col-sm-2/5">
-                                <div class="vc_column-inner ">
-                                    <div class="wpb_wrapper" style="width: 100%; max-width: 410px;margin-left: 0; margin-right: auto;">
-                                        <div class="sh-heading js-scroll fade-in-bottom" id="heading-NurfqAcmD0">
-                                            <div class="sh-element-margin">
-
-
-                                                <h2 class="sh-heading-content size-custom text-left">
-                                                    Top Quality! </h2>
-                                            </div>
-                                        </div>
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-DLsClv0Wtz  " style="height: 29px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
-
-
-                                        <div class="sh-heading js-scroll slide-right" id="heading-jkQwNlEJAd">
-                                            <div class="sh-element-margin">
-                                                <h2 class="sh-heading-content size-custom text-left">
-                                                    Meus clientes amam o que fazemos </h2>
-                                            </div>
-                                        </div>
-
-
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-eaKRpYMLf0  " style="height: 29px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
-
-
-                                        <div class="sh-heading js-scroll slide-left" id="heading-JedDGINQH5">
-                                            <div class="sh-element-margin">
-                                                <h2 class="sh-heading-content size-custom text-left">
-                                                    Textos de exemplos vão ser colocados aqui </h2>
-                                            </div>
-                                        </div>
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-n26DxBHRq0  " style="height: 70px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
-
-
-                                        <div id="button-bsVZJXM0Kx" class="sh-button-container sh-button-style-5 js-scroll slide-left">
-                                            <div class="sh-element-margin">
-                                                <a href="#" target="_self" class="sh-button sh-button-medium ">
-
-                                                    <span class="sh-button-text">
-                                                        Entre em contato! </span>
-
-                                                </a>
-                                            </div>
-                                        </div>
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-vEHK72aGrB" style="height: 29px">
-                                            <span class="vc_empty_space_inner"></span>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="wpb_column vc_column_container vc_col-sm-3/5">
-                                <div class="vc_column-inner ">
-                                    <div class="wpb_wrapper" style="width: 100%; max-width: 660px;margin-left: auto; margin-right: auto;">
-                                        <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1574689786687 vc_row-has-fill vc_row-o-content-middle vc_row-flex vc_row_912246651">
-                                            <div class="wpb_column vc_column_container vc_col-sm-8">
-                                                <div class="vc_column-inner ">
-                                                    <div class="wpb_wrapper js-scroll fade-in-bottom">
-                                                        <div id="icon-PyO5C89L0F" class="sh-icon  sh-icon-left">
-
-                                                            <div class="sh-element-margin">
-                                                                <div class="sh-icon-container">
-                                                                    <i class="sh-icon-data fa fa-quote-right"></i>
-                                                                </div>
-                                                            </div>
-
-                                                        </div>
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-XelY0okSEm  " style="height: 20px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-
-
-                                                        <div id="text-block-ulZfPLXGmY" class="sh-text-block">
-                                                            Lectus, non ultrices nisi. In varius, leo non gravida tristique, diam nunc aliquam ligula, id iaculis quam dui et metus.</div>
-                                                        <div class="sh-heading  " id="heading-Bat9OPyqs8">
-                                                            <div class="sh-element-margin">
-
-
-                                                                <h2 class="sh-heading-content size-custom text-left">
-                                                                    Kate Welsh </h2>
-
-
-                                                            </div>
-                                                        </div>
-
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-0r9q4JHsF5  " style="height: 40px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="wpb_column vc_column_container vc_col-sm-4">
-                                                <div class="vc_column-inner vc_custom_1574431236783">
-                                                    <div class="wpb_wrapper">
-                                                        <div id="single-image-Iu8gB1Npe4" class="sh-single-image">
-                                                            <div class="sh-element-margin">
-                                                                <div class="sh-single-image-container">
-
-                                                                    <img class="sh-image-url js-scroll slide-right" src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/azamat-zhanisov-vI5jmWdv7hY-unsplash2.jpg" alt="azamat-zhanisov-vI5jmWdv7hY-unsplash2" />
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1574689921019 vc_row-has-fill vc_row-o-content-middle vc_row-flex vc_row_325933551">
-                                            <div class="wpb_column vc_column_container vc_col-sm-8">
-                                                <div class="vc_column-inner js-scroll fade-in-bottom">
-                                                    <div class="wpb_wrapper">
-                                                        <div id="icon-Ni0bCrOjxs" class="sh-icon sh-icon-left">
-                                                            <div class="sh-element-margin">
-                                                                <div class="sh-icon-container">
-                                                                    <i class="sh-icon-data fa fa-quote-right"></i>
-                                                                </div>
-                                                            </div>
-
-                                                        </div>
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-3ywiXaqC1G" style="height: 20px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-
-
-                                                        <div id="text-block-pwgCVMjIJ1" class="sh-text-block">
-                                                            Lectus, non ultrices nisi. In varius, leo non gravida tristique, diam nunc aliquam ligula, id iaculis quam dui et metus.</div>
-                                                        <div class="sh-heading  " id="heading-Ih9rzynRcS">
-                                                            <div class="sh-element-margin">
-
-
-                                                                <h2 class="sh-heading-content size-custom text-left">
-                                                                    Jogh Doe </h2>
-
-
-                                                            </div>
-                                                        </div>
-
-                                                        <div class="sh-empty-space vc_empty_space sh-empty-space-bC53suymYo" style="height: 40px">
-                                                            <span class="vc_empty_space_inner"></span>
-                                                        </div>
-
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="wpb_column vc_column_container vc_col-sm-4">
-                                                <div class="vc_column-inner vc_custom_1574349251683">
-                                                    <div class="wpb_wrapper">
-                                                        <div id="single-image-uM0XGRZo8V" class="sh-single-image">
-                                                            <div class="sh-element-margin">
-                                                                <div class="sh-single-image-container">
-
-                                                                    <img class="sh-image-url js-scroll slide-right" src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/azamat-zhanisov-vI5jmWdv7hY-unsplash1.jpg" alt="azamat-zhanisov-vI5jmWdv7hY-unsplash1" />
-
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        
                         <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1574349562032 vc_row_824162599">
                             <div class="wpb_column vc_column_container vc_col-sm-12 vc_column_808578462">
                                 <div class="vc_column-inner ">

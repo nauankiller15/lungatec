@@ -73594,7 +73594,8 @@ body.compose-mode .page-content.vc-main-sortable-container>.vc_empty-placeholder
 @media (min-width:1250px) {
     .vc_row[data-vc-full-width=true][data-vc-stretch-content=true] {
         margin-left: calc(-100vw/2 + 1200px/2 + 7.5px);
-        margin-right: calc(-100vw/2 + 1200px/2 + 7.5px)
+        margin-right: calc(-100vw/2 + 1200px/2 + 7.5px);
+        margin-top: 5vh;
     }
     .vc_row[data-vc-full-width=true]:not([data-vc-stretch-content=true]) {
         margin-left: calc(-100vw/2 + 1200px/2 + 7.5px);
