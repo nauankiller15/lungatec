@@ -15,6 +15,7 @@
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\anim.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\contact-form.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\styles.css">
+    <link rel="stylesheet" type="text/css" href="CSS\Utilidades\loader.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\footer.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\misc.css">
 
@@ -31,14 +32,4 @@
     <!-- ICON -->
     <link rel="icon" type="image/png" href="Imagens/favicon-32x32.png" />
 
-    <!-- LOADER -->
-    <div class="sh-page-loader sh-table sh-page-loader-style-spinner">
-        <div class="sh-table-cell">
-            <div id="loading-center-absolute">
-                <div class="object" id="object_one"></div>
-                <div class="object" id="object_two"></div>
-                <div class="object" id="object_three"></div>
-            </div>
-        </div>
-    </div>
 </head>

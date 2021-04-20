@@ -1410,7 +1410,7 @@ body {
     top: 0;
     bottom: 0;
     right: 0;
-    z-index: 12345678902;
+    z-index: 9999;
     transition: 0.3s all ease;
     transition: 0.2s all;
     padding: 0 0;

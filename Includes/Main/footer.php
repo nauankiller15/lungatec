@@ -37,6 +37,7 @@
 <!-- PRIMARY KEY -->
 <script src="Lib/jquery-3.5.1.min.js"></script>
 <script src="Lib/misc.js"></script>
+<script src="JS/main.js"></script>
 <script src="Lib/optmizer.js"></script>
 
 
