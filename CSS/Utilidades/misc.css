@@ -2721,6 +2721,10 @@ blockquote {
     background-position: 50% 50%
 }
 
+.pad-cont {
+    padding-bottom: 280px;
+}
+
 .container-big {
     margin-right: 7vw;
     margin-left: 7vw;
@@ -2975,9 +2979,9 @@ blockquote {
 }
 
 .content-width {
-    width: 80%;
+    width: 93%;
     background: var(--azul);
-    padding-left: 40px;
+    padding-left: 10px;
     padding-bottom: 40px;
 }
 
@@ -3620,6 +3624,10 @@ blockquote {
 /* RESPONSIVO MOBILE CSS */
 
 @media screen and (max-width:991px) {
+    .call-buttons {
+        position: relative;
+        width: 100%;
+    }
     .info-left {
         left: 15px;
         right: auto;

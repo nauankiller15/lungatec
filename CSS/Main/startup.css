@@ -74746,7 +74746,7 @@ body.compose-mode .page-content.vc-main-sortable-container>.vc_empty-placeholder
 
 @media (max-width:550px) {
     .container {
-        max-width: 300px!important
+        max-width: 345px!important
     }
     .blog-list:not(.sh-recent-posts-list-carousel) .post-item {
         width: 100%!important
