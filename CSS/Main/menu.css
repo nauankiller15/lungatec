@@ -90,6 +90,7 @@
     transition: 0.5s;
     background: #000000bf;
     position: fixed;
+    backdrop-filter: blur(10px);
 }
 
 .position {
