@@ -2292,9 +2292,6 @@ h6 {
 
 p {
     padding: 13px;
-    background: #101010;
-    font-family: Heebo, sans-serif;
-    color: var(--cor-p);
     font-size: 16px;
     line-height: 27px;
     font-weight: 300;
@@ -2578,7 +2575,7 @@ blockquote {
 
 .section-steps,
 .section.cta {
-    background-color: #101010;
+    background-color: var(--azul);
     background-attachment: scroll, scroll
 }
 
@@ -2673,7 +2670,7 @@ blockquote {
 }
 
 .section.cta {
-    background-image: -webkit-gradient(linear, left top, right top, color-stop(25%, #000), to(transparent)), url(https://1.bp.blogspot.com/-lpp6OS4RGsk/YE_rTydKBYI/AAAAAAAAG4Y/6yN_8fUbicsTxlo7diIvl5UngKhMdQEUACLcBGAsYHQ/s0/arestas-fundo-circulos.pngI);
+    background-image: -webkit-gradient(linear, left top, right top, color-stop(25%, var(--azul)), to(transparent)), url(https://1.bp.blogspot.com/-lpp6OS4RGsk/YE_rTydKBYI/AAAAAAAAG4Y/6yN_8fUbicsTxlo7diIvl5UngKhMdQEUACLcBGAsYHQ/s0/arestas-fundo-circulos.pngI);
     background-image: url(https://1.bp.blogspot.com/-lpp6OS4RGsk/YE_rTydKBYI/AAAAAAAAG4Y/6yN_8fUbicsTxlo7diIvl5UngKhMdQEUACLcBGAsYHQ/s0/arestas-fundo-circulos.pngI), url(https://1.bp.blogspot.com/-4Vz6lYao22M/YE0jaytvt8I/AAAAAAAAG1c/WS9HFbV_6bwB4K1m6J2OYunu_u0ShC8JgCLcBGAsYHQ/s0/arestas%2Bmaiores%2Be%2Bshapes.png);
     background-position: 100% 0%, 0 86%;
     background-repeat: no-repeat, no-repeat;
@@ -2732,17 +2729,10 @@ blockquote {
 }
 
 .container-big p {
-    color: #fff;
+    color: var(--branco);
     text-align: justify;
     padding: 30px;
     font-size: 23px;
-}
-
-.yellow-separator {
-    width: 76px;
-    height: 2px;
-    margin-bottom: 60px;
-    background-color: #fbbb2e
 }
 
 ._3d-content {
@@ -2975,7 +2965,8 @@ blockquote {
 }
 
 .plus-margin-bottom {
-    margin-bottom: 40px
+    margin-bottom: 40px;
+    color: var(--branco);
 }
 
 .plus-margin-equipe {
@@ -2985,7 +2976,7 @@ blockquote {
 
 .content-width {
     width: 80%;
-    background: #101010;
+    background: var(--azul);
     padding-left: 40px;
     padding-bottom: 40px;
 }
@@ -3875,7 +3866,7 @@ blockquote {
     }
     .section.cta {
         background-image: -webkit-gradient(linear, left top, right top, color-stop(25%, #000), to(transparent));
-        background-image: linear-gradient(90deg, #000 25%, transparent);
+        background-image: linear-gradient(90deg, var(--azul) 25%, transparent);
         background-position: 0 0
     }
     .section.form {
@@ -3887,7 +3878,7 @@ blockquote {
         text-align: center
     }
     .container-big p {
-        color: #fff;
+        color: var(--branco);
         text-align: justify;
         padding: 14px;
         font-size: 15px;

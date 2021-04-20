@@ -99,38 +99,65 @@
 }
 
 
+/* APRESENTAÇÃO */
+
+@keyframes positloader {
+    from {
+        transform: translateY(950px);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+
+@keyframes positBrand {
+    from {
+        transform: translateX(-950px);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+@keyframes positMenu {
+    from {
+        transform: translateY(-950px);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+
+
+/* MENU CANTO DE BAIXO POSICOES*/
+
+@keyframes positMenubottom {
+    from {
+        transform: translateY(220px);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+
+
+/* ANIMAÇÂO PÁGINA SOBRE*/
+
+@keyframes SobreAnim {
+    from {
+        transform: translateX(-900px);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+
+
 /* ANIMAÇÂO PÁGINA TIME*/
 
-@keyframes infoleft {
+@keyframes TimeAnim {
     from {
-        transform: translateY(-900px);
-    }
-    to {
-        transform: translateY(0);
-    }
-}
-
-@keyframes transicoes {
-    from {
-        transform: translateY(0);
-    }
-    to {
-        transform: translateY(100px);
-    }
-}
-
-@keyframes animMarcos {
-    from {
-        transform: translateY(1000px);
-    }
-    to {
-        transform: translateY(0);
-    }
-}
-
-@keyframes animRicardo {
-    from {
-        transform: translateY(1000px);
+        transform: translateY(900px);
     }
     to {
         transform: translateY(0);

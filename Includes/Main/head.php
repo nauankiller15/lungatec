@@ -8,13 +8,15 @@
     <link media="only screen and (max-width: 768px)" rel="stylesheet" type="text/css" href="CSS\Utilidades\optmize.css">
     <title>Lungatec</title>
     <!-- STYLESHEET -->
+    <link rel="stylesheet" type="text/css" href="CSS\Utilidades\misc.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\menu.css">
+    <link rel="stylesheet" type="text/css" href="CSS\Main\controles-paginas.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\menu.mobile.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\main-files.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\anim.css">
+    <link rel="stylesheet" type="text/css" href="CSS\Utilidades\contact-form.css">
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\styles.css">
     <link rel="stylesheet" type="text/css" href="CSS\Main\footer.css">
-    <link rel="stylesheet" type="text/css" href="CSS\Utilidades\misc.css">
     <!-- ANIMATE ON SCROLL -->
     <link rel="stylesheet" type="text/css" href="CSS\Utilidades\animate-scroll.css">
     <!--  -->

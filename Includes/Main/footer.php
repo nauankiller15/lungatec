@@ -46,6 +46,7 @@
 
 <!-- JS -->
 <script src="JS/animate-scroll.js"></script>
+<script src="JS/animacoes.js"></script>
 <script src="JS/typed-effect.js"></script>
 <script src="JS/responsive-nav.js"></script>
 <script src="JS/menu.anim.js"></script>

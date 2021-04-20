@@ -6837,7 +6837,6 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 .is-small table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__image {
     -ms-grid-column: 1;
     grid-column: 1;
-    -ms-grid-row: 1;
     grid-row-start: 1;
     padding-right: 16px
 }
@@ -6845,11 +6844,8 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 .is-medium table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__product,
 .is-mobile table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__product,
 .is-small table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__product {
-    -ms-grid-column: 2;
-    grid-column-start: 2;
     -ms-grid-column-span: 2;
     grid-column-end: 4;
-    -ms-grid-row: 1;
     grid-row-start: 1;
     -ms-grid-column-align: stretch;
     justify-self: stretch;
@@ -6860,10 +6856,6 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 .is-medium table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__quantity,
 .is-mobile table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__quantity,
 .is-small table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__quantity {
-    -ms-grid-column: 2;
-    grid-column-start: 2;
-    -ms-grid-row: 2;
-    grid-row-start: 2;
     vertical-align: bottom;
     padding-right: 16px
 }
@@ -6883,9 +6875,7 @@ table.wc-block-cart-items .wc-block-cart-items__row.is-disabled {
 .is-medium table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__total,
 .is-mobile table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__total,
 .is-small table.wc-block-cart-items .wc-block-cart-items__row .wc-block-cart-item__total {
-    -ms-grid-column: 3;
     grid-column-start: 3;
-    -ms-grid-row: 2;
     grid-row-start: 2;
     -ms-grid-row-align: center;
     align-self: center
@@ -8565,7 +8555,6 @@ rs-sbg-px {
     font-family: "revicons";
     font-style: normal;
     font-weight: 400;
-    speak: none;
     display: inline-block;
     text-decoration: inherit;
     width: 1em;
@@ -8616,7 +8605,6 @@ rs-module [class*=" fa-"]:before,
     font-family: FontAwesome;
     font-style: normal;
     font-weight: 400;
-    speak: none;
     display: inline-block;
     text-decoration: inherit;
     width: auto;
@@ -9010,17 +8998,6 @@ rs-module .rs-layer {
     z-index: 1
 }
 
-rs-layer-wrap,
-rs-mask,
-rs-module-wrap,
-rs-module .rs-layer,
-rs-module img {
-    -moz-user-select: none;
-    -khtml-user-select: none;
-    -webkit-user-select: none;
-    -o-user-select: none
-}
-
 rs-module rs-mask-wrap .rs-layer,
 rs-module rs-mask-wrap *:last-child,
 .wpb_text_column rs-module rs-mask-wrap .rs-layer,
@@ -9074,13 +9051,6 @@ rs-carousel-space {
 .tp_inner_padding {
     box-sizing: border-box;
     max-height: none !important
-}
-
-.rs-layer.rs-selectable {
-    -moz-user-select: all;
-    -khtml-user-select: all;
-    -webkit-user-select: all;
-    -o-user-select: all
 }
 
 rs-px-mask {
@@ -12174,7 +12144,6 @@ rs-loader.spinner15 .rs-spinner-inner:last-child {
 .woocommerce form .show-password-input:after,
 .woocommerce-page form .show-password-input:after {
     font-family: WooCommerce;
-    speak: none;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -13676,7 +13645,6 @@ p.demo_store a {
 .woocommerce td.product-name .wc-item-meta dt,
 .woocommerce td.product-name dl.variation .wc-item-meta-label,
 .woocommerce td.product-name dl.variation dt {
-    float: left;
     clear: both;
     margin-right: .25em;
     display: inline-block;
@@ -13770,7 +13738,6 @@ p.demo_store a {
 .woocommerce ul.product_list_widget li dl dd,
 .woocommerce ul.product_list_widget li dl dt {
     display: inline-block;
-    float: left;
     margin-bottom: 1em
 }
 
@@ -14086,7 +14053,6 @@ p.demo_store a {
 
 .woocommerce .woocommerce-customer-details .woocommerce-customer-details--phone:before {
     font-family: WooCommerce;
-    speak: none;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -14102,7 +14068,6 @@ p.demo_store a {
 
 .woocommerce .woocommerce-customer-details .woocommerce-customer-details--email:before {
     font-family: WooCommerce;
-    speak: none;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -14145,7 +14110,6 @@ p.demo_store a {
 
 .woocommerce .woocommerce-widget-layered-nav-list .woocommerce-widget-layered-nav-list__item--chosen a:before {
     font-family: WooCommerce;
-    speak: none;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -14182,7 +14146,6 @@ p.demo_store a {
 
 .woocommerce .widget_layered_nav_filters ul li a:before {
     font-family: WooCommerce;
-    speak: none;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -14298,7 +14261,6 @@ p.demo_store a {
 
 .woocommerce .widget_rating_filter ul li.chosen a:before {
     font-family: WooCommerce;
-    speak: none;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -14467,7 +14429,6 @@ p.demo_store a {
 
 .woocommerce-account ul.digital-downloads li:before {
     font-family: WooCommerce;
-    speak: none;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -14566,7 +14527,6 @@ p.demo_store a {
 .woocommerce-cart .cart-collaterals .shipping-calculator-button:after,
 .woocommerce-checkout .cart-collaterals .shipping-calculator-button:after {
     font-family: WooCommerce;
-    speak: none;
     font-weight: 400;
     font-variant: normal;
     text-transform: none;
@@ -16108,7 +16068,6 @@ img {
 
 .wrap-forms .field-time .time-format {
     width: 16%;
-    float: right;
     display: inline-block
 }
 
@@ -16480,36 +16439,30 @@ body.rtl .wrap-forms .field-columns-3 .field-column {
 }
 
 .fa-rotate-90 {
-    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg)
 }
 
 .fa-rotate-180 {
-    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
     -webkit-transform: rotate(180deg);
     -ms-transform: rotate(180deg);
     transform: rotate(180deg)
 }
 
 .fa-rotate-270 {
-    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
     -webkit-transform: rotate(270deg);
     -ms-transform: rotate(270deg);
     transform: rotate(270deg)
 }
 
 .fa-flip-horizontal {
-    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
     -webkit-transform: scale(-1, 1);
     -ms-transform: scale(-1, 1);
     transform: scale(-1, 1)
 }
 
 .fa-flip-vertical {
-    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
-    -webkit-transform: scale(1, -1);
     -ms-transform: scale(1, -1);
     transform: scale(1, -1)
 }
@@ -21173,7 +21126,6 @@ body.rtl .wrap-forms .field-columns-3 .field-column {
 
 .vc-composer-icon {
     font-family: vcpb-plugin-icons!important;
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -33075,7 +33027,6 @@ a.wpb_button_a:hover {
     width: 48%;
     display: inline-block;
     padding-top: 1em;
-    float: left
 }
 
 .wpb_tour_next_prev_nav span.wpb_next_slide {
@@ -36382,8 +36333,6 @@ body .wpb_gallery_slides ul li {
     opacity: 0;
     -webkit-transform: translate3d(0, -100%, 0);
     transform: translate3d(0, -100%, 0);
-    -webkit-perspective: 1000;
-    -webkit-backface-visibility: hidden;
     -webkit-transition: -webkit-transform 1s cubic-bezier(0, .275, .125, 1), opacity .5s cubic-bezier(0, .275, .125, 1);
     -moz-transition: -moz-transform 1s cubic-bezier(0, .275, .125, 1), opacity .5s cubic-bezier(0, .275, .125, 1);
     transition: transform 1s cubic-bezier(0, .275, .125, 1), opacity .5s cubic-bezier(0, .275, .125, 1)
@@ -36530,9 +36479,6 @@ body .wpb_gallery_slides ul li {
     -moz-transform-origin: 50% 50%;
     -ms-transform-origin: 50% 50%;
     transform-origin: 50% 50%;
-    -webkit-perspective: 1000;
-    -webkit-backface-visibility: hidden;
-    webkit-transition: filter .5s cubic-bezier(0, .275, .125, 1), -webkit-transform .5s cubic-bezier(0, .275, .125, 1);
     -moz-transition: filter .5s cubic-bezier(0, .275, .125, 1), -moz-transform .5s cubic-bezier(0, .275, .125, 1);
     transition: filter .5s cubic-bezier(0, .275, .125, 1), transform .5s cubic-bezier(0, .275, .125, 1)
 }
@@ -36912,7 +36858,6 @@ body .wpb_gallery_slides ul li {
     height: 10px;
     margin: 5px 7px;
     display: block;
-    -webkit-backface-visibility: visible;
     -webkit-transition: opacity .2s ease;
     -o-transition: opacity .2s ease;
     transition: opacity .2s ease
@@ -36968,8 +36913,6 @@ body .wpb_gallery_slides ul li {
     height: 10px;
     margin: 5px 7px;
     display: block;
-    -webkit-backface-visibility: visible;
-    -webkit-transition: opacity .2s ease;
     -o-transition: opacity .2s ease;
     transition: opacity .2s ease
 }
@@ -36992,7 +36935,6 @@ body .wpb_gallery_slides ul li {
     height: 10px;
     margin: 5px 7px;
     display: block;
-    -webkit-backface-visibility: visible;
     -webkit-transition: opacity .2s ease;
     -o-transition: opacity .2s ease;
     transition: opacity .2s ease
@@ -39062,7 +39004,6 @@ body .wpb_gallery_slides ul li {
 [class*=" vc_arrow-icon-"],
 [class^=vc_arrow-icon-] {
     font-family: vc_grid_v1;
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -41209,7 +41150,7 @@ h4 {
 
 .h5,
 h5 {
-    font-size: 14px
+    font-size: 55px
 }
 
 .h6,
@@ -51256,7 +51197,6 @@ img.jssocials-share-logo {
     font-family: 'lightcase', sans-serif;
     font-style: normal;
     font-weight: 400;
-    speak: none;
     display: inline-block;
     text-decoration: inherit;
     width: 1em;
@@ -51404,7 +51344,6 @@ img.jssocials-share-logo {
         -moz-box-shadow: 0 0 30px rgba(0, 0, 0, .5);
         -o-box-shadow: 0 0 30px rgba(0, 0, 0, .5);
         box-shadow: 0 0 30px rgba(0, 0, 0, .5);
-        -webkit-backface-visibility: hidden
     }
 }
 
@@ -51642,7 +51581,6 @@ html[data-lc-type=image] #lightcase-content .lightcase-contentInner {
     opacity: 1;
     font-size: 32px;
     text-shadow: 0 0 15px #fff;
-    -moz-transform-origin: 50% 53%;
     -webkit-animation: lightcase-spin 0.5s infinite linear;
     -moz-animation: lightcase-spin 0.5s infinite linear;
     -o-animation: lightcase-spin 0.5s infinite linear;
@@ -51778,7 +51716,6 @@ a[class*='lightcase-icon-'].lightcase-icon-play {
 [class*=" pe-7s-"] {
     display: inline-block;
     font-family: 'Pe-icon-7-stroke';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -52792,7 +52729,6 @@ a[class*='lightcase-icon-'].lightcase-icon-play {
 .icon-social-vkontakte,
 .icon-social-steam {
     font-family: 'simple-line-icons';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -53956,8 +53892,6 @@ a[class*='lightcase-icon-'].lightcase-icon-play {
 .SumoSelect.open .search-txt,
 .SumoUnder {
     position: absolute;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
     top: 0;
     left: 0
 }
@@ -54387,7 +54321,6 @@ a[class*='lightcase-icon-'].lightcase-icon-play {
 [class^="ti-"],
 [class*=" ti-"] {
     font-family: 'themify';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -56346,7 +56279,6 @@ a[class*='lightcase-icon-'].lightcase-icon-play {
     background-size: cover;
     cursor: pointer;
     position: relative;
-    -webkit-transform: translateZ(0)
 }
 
 .sh-button-icon {
@@ -56572,7 +56504,6 @@ a[class*='lightcase-icon-'].lightcase-icon-play {
     transition: -webkit-transform .3s;
     transition: transform .3s;
     transition: transform .3s, -webkit-transform .3s;
-    -webkit-transform: translateX(-25%)
 }
 
 .sh-button-style-4:hover .sh-button,
@@ -56659,7 +56590,6 @@ a[class*='lightcase-icon-'].lightcase-icon-play {
 
 .wrap-forms sup:before {
     font-family: 'simple-line-icons';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -56762,7 +56692,6 @@ a[class*='lightcase-icon-'].lightcase-icon-play {
 .cf7-required:after {
     color: #f3bc47;
     font-family: 'simple-line-icons';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -58734,7 +58663,6 @@ body .ui-datepicker-title select {
 .sh-image-comparison .twentytwenty-right-arrow:before,
 .sh-image-comparison .twentytwenty-left-arrow:before {
     font-family: 'themify';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -60088,7 +60016,7 @@ a.sh-filter-item-content {
 }
 
 .sh-filter-fancy-container {
-    Xmargin-bottom: 15px
+    margin-bottom: 15px;
 }
 
 .sh-portfolio-fancy {
@@ -60167,13 +60095,6 @@ a.sh-filter-item-content {
     -ms-transform: scale(1.25);
     -o-transform: scale(1.25);
     transform: scale(1.25)
-}
-
-.sh-portfolio-fancy-itemc-container {
-    -webkit-backface-visibility: hidden;
-    -moz-backface-visibility: hidden;
-    -webkit-transform: translate3d(0, 0, 0);
-    -moz-transform: translate3d(0, 0, 0)
 }
 
 .sh-portfolio-fancy-item-overlay-bg {
@@ -60463,7 +60384,6 @@ a.sh-filter-item-content {
     overflow: hidden;
     position: relative;
     font-size: 13px;
-    -webkit-transform: translateZ(0)
 }
 
 .sh-pricing-button span {
@@ -61906,7 +61826,6 @@ a.sh-pricing-button-style11:hover span {
 .sh-testimonials-style2 .sh-testimonials-quote:after,
 .sh-testimonials-style2 .sh-testimonials-quote:before {
     font-family: 'themify';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -62917,7 +62836,6 @@ a.sh-pricing-button-style11:hover span {
 .woocomerce-styling.sh-woocommerce-products-style2 ul.products li.product .button.product_type_grouped,
 .woocomerce-styling.sh-woocommerce-products-style2 ul.products li.product .add_to_cart_button {
     display: inline-block;
-    float: right!important;
     font-size: 0px!important;
     padding: 0!important;
     top: -35px!important;
@@ -62935,7 +62853,6 @@ a.sh-pricing-button-style11:hover span {
 .woocomerce-styling.sh-woocommerce-products-style2 ul.products li.product .button.product_type_simple:not(.add_to_cart_button):after,
 .woocomerce-styling.sh-woocommerce-products-style2 ul.products li.product .button.product_type_grouped:not(.add_to_cart_button):after {
     font-family: 'simple-line-icons';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -64008,14 +63925,6 @@ figure {
     text-align: center
 }
 
-.sh-noselect {
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none
-}
-
 dd {
     margin: 0 0 20px
 }
@@ -64111,7 +64020,6 @@ h2 {
 
 .icon-social-gplus {
     font-family: 'simple-line-icons';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -64437,7 +64345,6 @@ blockquote {
 
 blockquote:before {
     font-family: 'themify';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -64522,7 +64429,6 @@ figure.gallery-item figcaption {
     display: inline-block;
     text-align: center;
     font-weight: 700;
-    float: left;
     margin-right: 15px;
     margin-top: 3px;
     margin-bottom: 8px;
@@ -65268,7 +65174,6 @@ header.primary-desktop:not(.primary-desktop-light) #header-logo-title div {
 .sh-nav li.menu-item-has-children>a:after,
 .sh-nav li.menu-item li.menu-item-has-children>a:after {
     font-family: 'simple-line-icons'!important;
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -66036,7 +65941,6 @@ header.primary-desktop:not(.primary-desktop-light) #header-logo-title div {
 .sh-nav-cart .menu-item-cart .widget_shopping_cart_content p.buttons a:first-child:before,
 .sh-nav-cart .menu-item-cart .widget_shopping_cart_content p.buttons a:last-child:before {
     font-family: 'simple-line-icons'!important;
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -66233,7 +66137,6 @@ header.primary-desktop:not(.primary-desktop-light) #header-logo-title div {
 .sh-header-5 .sh-nav-login span:before,
 .sh-header-6 .sh-nav-login span:before {
     font-family: 'simple-line-icons'!important;
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -67443,7 +67346,6 @@ body>.sh-header-search {
 
 .sh-nav-mobile li.menu-item-has-children>a:after {
     font-family: 'simple-line-icons'!important;
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -67456,7 +67358,6 @@ body>.sh-header-search {
     font-size: 12px;
     margin-left: 6px;
     top: 6px;
-    float: right;
     content: "\e604"
 }
 
@@ -67501,7 +67402,6 @@ body>.sh-header-search {
     margin-bottom: 0;
     font-size: 24px;
     font-weight: 700;
-    vertical-align: middle;
     color: #fff!important
 }
 
@@ -67674,7 +67574,6 @@ header.primary-mobile {
 .sh-titlebar .title-level .separator:after {
     display: inline-block;
     font-family: 'simple-line-icons'!important;
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -70007,7 +69906,6 @@ body:not(.sh-blog-style2) .sh-sidebar-search-active .search-field::-webkit-input
 .woocommerce .woocomerce-styling .star-rating:before,
 .woocommerce .woocomerce-styling .star-rating span:before {
     font-family: 'themify';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -70035,7 +69933,6 @@ body:not(.sh-blog-style2) .sh-sidebar-search-active .search-field::-webkit-input
 .woocommerce .product form.cart .button:before,
 .woocommerce ul.products li.product .add_to_cart_button:after {
     font-family: 'simple-line-icons';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -70254,7 +70151,6 @@ body:not(.sh-blog-style2) .sh-sidebar-search-active .search-field::-webkit-input
 .woocommerce abbr.required:before,
 .woocommerce #review_form span.required:before {
     font-family: 'simple-line-icons';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -70295,7 +70191,6 @@ body:not(.sh-blog-style2) .sh-sidebar-search-active .search-field::-webkit-input
 
 .woocommerce a.remove:before {
     font-family: 'themify';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -70512,7 +70407,6 @@ body:not(.sh-blog-style2) .sh-sidebar-search-active .search-field::-webkit-input
     background-image: none;
     display: inline-block;
     font-family: 'simple-line-icons'!important;
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -70624,7 +70518,6 @@ body:not(.sh-blog-style2) .sh-sidebar-search-active .search-field::-webkit-input
     background-image: none;
     display: inline-block;
     font-family: 'simple-line-icons'!important;
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -71009,7 +70902,6 @@ body.woocommerce div.product .woocommerce-tabs ul.tabs:before {
 
 .woocommerce .woocommerce-tabs .comment-form-rating span>a:before {
     font-family: 'themify'!important;
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -71752,7 +71644,6 @@ body.admin-bar #lightcase-nav .lightcase-icon-close {
 #lightcase-nav .lightcase-icon-close:before {
     content: "\e646";
     font-family: 'themify';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -71944,7 +71835,6 @@ body.admin-bar #lightcase-nav .lightcase-icon-close {
 .sh-social-share-networks .fa-at,
 .sh-social-share-networks .fa-pinterest {
     font-family: 'simple-line-icons';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -72474,7 +72364,6 @@ ul.page-numbers .current:hover,
 
 .widget_recent_entries li:before {
     font-family: 'simple-line-icons';
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -76567,37 +76456,24 @@ a.plyr__control:before {
 }
 
 .fa-rotate-90 {
-    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg)
 }
 
 .fa-rotate-180 {
-    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
-    -webkit-transform: rotate(180deg);
-    -ms-transform: rotate(180deg);
     transform: rotate(180deg)
 }
 
 .fa-rotate-270 {
-    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
-    -webkit-transform: rotate(270deg);
-    -ms-transform: rotate(270deg);
     transform: rotate(270deg)
 }
 
 .fa-flip-horizontal {
-    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
-    -webkit-transform: scale(-1, 1);
-    -ms-transform: scale(-1, 1);
     transform: scale(-1, 1)
 }
 
 .fa-flip-vertical {
-    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
-    -webkit-transform: scale(1, -1);
-    -ms-transform: scale(1, -1);
     transform: scale(1, -1)
 }
 
