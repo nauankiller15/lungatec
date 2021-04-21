@@ -5,7 +5,7 @@
                 <div class="content-half" style="opacity: 1;">
                     <a href="#" aria-current="page" class="footer-logo w-inline-block w--current">
                         <img src="https://1.bp.blogspot.com/-5GuSieSw9T0/YHD9thzmW_I/AAAAAAAAHBA/RmYV_gjKmaY_uS2CWrX4W4vKTJdH_DK8ACLcBGAsYHQ/s0/logo-menu.png" alt=""></a>
-                    <h6 class="headline-8">Frase de Efeito do Lungatec</h6>
+                    <h6 class="headline-8">Faremos de tudo para atender seus objetivos!</h6>
 
                 </div>
                 <div class="content-half c-footer">

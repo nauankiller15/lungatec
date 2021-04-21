@@ -3,20 +3,34 @@
         <div class="content-width">
             <h5 class="plus-margin-bottom top-marg2">Lungatec</h5>
             <p>
-                A nossa equipe está disposta, a todo tempo, a ouvir sugestões, apresentar prévias de resultados e construir com seus clientes a relação mais harmônica possível.
-                Temos como meta ampliar o alcance do nosso serviço, gerando uma rede de clientes satisfeitos e bem representados.
+                A LunGatec é uma empresa que atua na área de
+                telecomunicações e segurança eletrônica, localizada em
+                Salvador, Bahia. O seu mercado de clientes abrange as
+                pequenas, médias e grandes empresas. Oferecemos
+                serviços de mão de obra certificada e equipamentos de
+                qualidade, sempre buscando tecnologia e inovação com
+                foco nas necessidades dos clientes.
+            </p>
 
-                Temos como principais missões ilustrar ideias, desenhar sonhos e materializar trabalhos. A confecção dos nossos produtos e gestão dos perfis de instagram a que nos dedicamos visa transmitir da maneira mais fiel e delicada os ideais e projetos dos nossos clientes. Dando vida aos seus planos, em imagens e conteúdo, em nível profissional. Além disso, auxiliamos com a consultoria de vendas e atendimento ao cliente, visando a melhora dos resultados.
 
-                Ambicionamos galgar seu lugar no mercado, a partir de serviços realizados com qualidade, presteza e compromisso aos seus clientes.
-                Acreditamos que missões e visões de crescimento precisam estar fundamentadas em valores sólidos e bem definidos. Neste sentido, apresentamos os valores que guiam o nosso trabalho:
-                Pontualidade;
-                Excelência e Qualidade;
-                Transparência;
-                Relações harmônicas e saudáveis;
-                Compromisso ético;
-                Integridade;
-                Inovação.
+            <h5 class="plus-margin-bottom top-marg2">Missão</h5>
+            <p>
+
+                Atender de forma personalizada os clientes,
+                oferecendo-lhes soluções de tecnologia,
+                garantida pela qualidade, eficiência e
+                agilidade de nossos serviços.
+
+            </p>
+
+
+            <h5 class="plus-margin-bottom top-marg2">Visão</h5>
+            <p>
+
+                Permanecer no mercado e incorporar a
+                liderança através da inovação guiada por um
+                compromisso firme de melhorar a vida de
+                nossos clientes.
 
             </p>
         </div>

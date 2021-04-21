@@ -694,7 +694,7 @@
                                             <div class="sh-element-margin">
 
                                                 <h2 class="sh-heading-content size-custom text-center margin-servicos">
-                                                    Parceiros </h2>
+                                                    Clientes </h2>
 
                                             </div>
                                         </div>
@@ -707,7 +707,7 @@
                                             <div class="sh-element-margin">
 
                                                 <h2 class="sh-heading-content size-custom text-center js-scroll slide-left">
-                                                    Confira aqui nossos parceiros</h2>
+                                                    Confira aqui nossos clientes</h2>
 
                                             </div>
                                         </div>
@@ -719,52 +719,48 @@
                                             <div class="sh-partners-carousel-item ">
                                                 <div class="sh-partners-carousel-item-content">
 
-                                                    <img src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/Sbeauty.png" alt="" />
+                                                    <img src="https://1.bp.blogspot.com/-DtIicqCgzrY/YH92rntFwtI/AAAAAAAAHEE/LE6fRs2mKfABuftTVPCkAIjKBKaXYk9iwCLcBGAsYHQ/s0/tv_bahia.png" alt="" />
 
                                                 </div>
                                             </div>
                                             <div class="sh-partners-carousel-item ">
                                                 <div class="sh-partners-carousel-item-content">
 
-                                                    <img src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/Group-3.png" alt="" />
+                                                    <img src="https://1.bp.blogspot.com/-fcHUE8EoLvU/YH92r055GLI/AAAAAAAAHEI/an85Y2pzuqALN3Qb2VXu3s0fJz4l3CEHQCLcBGAsYHQ/s0/exbiz.png" alt="" />
 
                                                 </div>
                                             </div>
                                             <div class="sh-partners-carousel-item ">
                                                 <div class="sh-partners-carousel-item-content">
 
-                                                    <img src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/Group-11.png" alt="" />
+                                                    <img src="https://1.bp.blogspot.com/-ycPkF4wT_pQ/YH95bdopSzI/AAAAAAAAHEU/JBP3ElrEc18FE2lHmnnFl4skfAuqAd9RgCLcBGAsYHQ/s0/super_frio.png" alt="" />
 
                                                 </div>
                                             </div>
                                             <div class="sh-partners-carousel-item ">
                                                 <div class="sh-partners-carousel-item-content">
 
-                                                    <img src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/Group-2.png" alt="" />
+                                                    <img src="https://1.bp.blogspot.com/-GtBnwTI0wFc/YH95ck5mCRI/AAAAAAAAHEY/aKSdD7hEZKwKJO1B625YurQJ-oMsQ4s9wCLcBGAsYHQ/s0/tecon.png" alt="" />
 
                                                 </div>
                                             </div>
+                                           
                                             <div class="sh-partners-carousel-item ">
                                                 <div class="sh-partners-carousel-item-content">
 
-                                                    <img src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/Demo-Database.png" alt="" />
+                                                    <img src="https://1.bp.blogspot.com/-J84HYNrqx4k/YH95l8wtZ6I/AAAAAAAAHEk/f6anJlA145EFJmM1Zu68X9pTYJXZRmxkQCLcBGAsYHQ/s0/wilson_terminais.png" alt="" />
 
                                                 </div>
                                             </div>
+
                                             <div class="sh-partners-carousel-item ">
                                                 <div class="sh-partners-carousel-item-content">
 
-                                                    <img src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/Shape-13-copy.png" alt="" />
+                                                    <img src="https://1.bp.blogspot.com/-hEBtLDqyW6g/YH95fqk-PnI/AAAAAAAAHEg/aBc4LYnsS5s4fz9PbrMGbOMyNur8PYEsACLcBGAsYHQ/s0/grupo_sbs.png" alt="" />
 
                                                 </div>
                                             </div>
-                                            <div class="sh-partners-carousel-item ">
-                                                <div class="sh-partners-carousel-item-content">
 
-                                                    <img src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/36/2019/11/Group-11.png" alt="" />
-
-                                                </div>
-                                            </div>
                                         </div>
 
                                     </div>

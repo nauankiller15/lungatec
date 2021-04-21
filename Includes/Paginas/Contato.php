@@ -4,7 +4,7 @@
             <h5 class="plus-margin-bottom top-marg2">ENTRE EM CONTATO</h5>
             <div class="call-buttons">
                 <h1 class="contato-botoes">Escolha um dos métodos abaixo:</h1>
-                <a href="https://wa.me/message/YYTYX6HFNW6JC1" target="_blank">
+                <a href="https://api.whatsapp.com/send/?phone=557183145450&text&app_absent=0" target="_blank">
                     <div class="whatssapp-btn">
                         <i style="margin-right:8px;" class="fab fa-whatsapp"></i>Whatsapp
                     </div>
