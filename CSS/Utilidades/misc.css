@@ -2739,6 +2739,27 @@ blockquote {
     font-size: 23px;
 }
 
+
+/* TELA CONTATO */
+
+.container-contato {
+    width: 45%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 150px;
+    padding-bottom: 180px;
+}
+
+.container-contato p {
+    color: var(--branco);
+    text-align: justify;
+    padding: 30px;
+    font-size: 23px;
+}
+
+
+/*  */
+
 ._3d-content {
     top: 0;
     display: flex;
@@ -2971,7 +2992,13 @@ blockquote {
 .plus-margin-bottom {
     margin-bottom: 10px;
     color: var(--branco);
-    margin-left: 35px;
+    margin-left: 30px;
+}
+
+.plus-margin-contato {
+    margin-bottom: 10px;
+    color: var(--branco);
+    text-align: center;
 }
 
 .plus-margin-equipe {
@@ -2980,7 +3007,7 @@ blockquote {
 }
 
 .content-width {
-    width: 93%;
+    width: 100%;
     background: var(--azul);
     padding-left: 10px;
     padding-bottom: 40px;
@@ -3625,6 +3652,14 @@ blockquote {
 /* RESPONSIVO MOBILE CSS */
 
 @media screen and (max-width:991px) {
+    /* TELA CONTATO */
+    .container-contato {
+        width: 100%;
+        margin-right: auto;
+        margin-left: auto;
+        padding-top: 115px;
+        padding-bottom: 55px;
+    }
     .call-buttons {
         position: relative;
         width: 100%;

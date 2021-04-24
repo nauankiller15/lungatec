@@ -1,7 +1,7 @@
 <div id="contato" class="section cta section-2">
-    <div class="container-big pad-cont">
+    <div class="container-contato pad-cont">
         <div class="content-width">
-            <h5 class="plus-margin-bottom top-marg2">ENTRE EM CONTATO</h5>
+            <h5 class="plus-margin-contato top-marg2">ENTRE EM CONTATO</h5>
             <div class="call-buttons">
                 <h1 class="contato-botoes">Escolha um dos métodos abaixo:</h1>
                 <a href="https://api.whatsapp.com/send/?phone=557183145450&text&app_absent=0" target="_blank">
