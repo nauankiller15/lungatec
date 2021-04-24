@@ -25,7 +25,7 @@
         </div>
     </div>
     <div class="creditos">
-        <p>© COPYRIGHT - Todos os direitos reservados 2021 - Lungatec - CNPJ 00.000.000/0000-00.</p>
+        <p>© COPYRIGHT - Todos os direitos reservados 2021 - Lungatec - CNPJ 36.532.835/0001-30.</p>
     </div>
 </div>
 
