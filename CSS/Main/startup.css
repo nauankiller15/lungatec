@@ -59093,7 +59093,8 @@ body .ui-datepicker-title select {
     overflow: hidden;
     opacity: 0;
     height: 0;
-    transition: .3s opacity ease-in-out
+    transition: .3s opacity ease-in-out;
+    cursor: grab;
 }
 
 .sh-partners-carousel .slick-slide {
