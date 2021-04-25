@@ -68,7 +68,7 @@
 }
 
 .email-btn {
-    background: var(--azul-fraco);
+    background: var(--btn-email);
     margin-top: 25px;
     text-align: center;
     font-size: 24px;
@@ -77,7 +77,7 @@
     transition: 0.6s;
     border-radius: 10px;
     cursor: pointer;
-    color: var(--preto);
+    color: var(--branco);
 }
 
 .email-btn:hover {

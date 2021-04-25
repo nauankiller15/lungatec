@@ -19,6 +19,7 @@
                         <a id="inicioAbrirBottom" aria-current="page" class="footer-nav-link w--current">Inicio</a>
                         <a id="sobreAbrirBottom" class="footer-nav-link">Sobre</a>
                         <a id="contatoAbrirBottom" class="footer-nav-link">Contato</a>
+                        <a href="#topo" class="footer-nav-link">Topo<i style="margin-left:10px;" class="fas fa-chevron-up"></i></a>
                     </div>
                 </div>
             </div>
@@ -36,8 +37,8 @@
 
 <!-- PRIMARY KEY -->
 <script src="Lib/jquery-3.5.1.min.js"></script>
-<script src="Lib/misc.js"></script>
 <script src="JS/main.js"></script>
+<script src="Lib/misc.js"></script>
 <script src="Lib/optmizer.js"></script>
 
 
@@ -52,7 +53,6 @@
 <script src="JS/responsive-nav.js"></script>
 <script src="JS/menu.anim.js"></script>
 
-<script type="text/html" id="wpb-modifications"></script>
 <link href="https://fonts.googleapis.com/css?family=Montserrat:700%2C700italic%2C500%7CRoboto:400" rel="stylesheet" property="stylesheet" media="all" type="text/css">
 <script>
     MenuAtivo();

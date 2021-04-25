@@ -163,3 +163,24 @@
         transform: translateY(0);
     }
 }
+
+
+/* ANIM SETA */
+
+@keyframes posicaoTp {
+    from {
+        transform: translateY(1750px);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+
+@keyframes setaPosit {
+    from {
+        transform: translateY(0px);
+    }
+    to {
+        transform: translateY(15px);
+    }
+}
