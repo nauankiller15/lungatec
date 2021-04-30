@@ -474,6 +474,129 @@
                             </div>
                         </div>
                         <!--  -->
+
+                        <div class="vc_row wpb_row vc_row-fluid vc_custom_1574358414311 vc_row-o-content-middle vc_row-flex vc_row_63772930 js-scroll slide-left">
+                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_748555517 js-scroll slide-right">
+                                <div class="vc_column-inner ">
+                                    <div class="wpb_wrapper">
+                                        <div id="single-image-ALnKGlO6zp" class="sh-single-image  ">
+                                            <div class="sh-element-margin">
+                                                <div class="sh-single-image-container">
+
+                                                    <img class="sh-image-url" src="https://1.bp.blogspot.com/-aLitddHFW1g/YItQwbKORtI/AAAAAAAAHGI/IYLtwQ_OVU07Yv1rgF6qWT3wmO2oBGWsgCLcBGAsYHQ/s0/cftv.png" alt="Cabeamento Estruturado" />
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="wpb_column vc_column_container vc_col-sm-6 vc_column_871963452 js-scroll slide-right js-scroll slide-right">
+                                <div class="vc_column-inner ">
+                                    <div class="wpb_wrapper" style="width: 100%; max-width: 430px;margin-left: auto; margin-right: auto;">
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-1dothsXY06" style="height: 0px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+
+                                        <div class="sh-element-margin">
+
+                                            <h2 class="qualidade js-scroll fade-in-bottom">
+                                                Qualidade e excelência!</h2>
+                                        </div>
+
+
+                                        <div class="sh-heading" id="heading-7P51fHIrgk">
+                                            <div class="sh-element-margin">
+
+
+                                                <h2 class="sh-heading-content size-custom text-left js-scroll slide-left">
+                                                    CFTV - Circuito Fechado de TV </h2>
+
+
+                                            </div>
+                                        </div>
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-pgDBCZJeHi" style="height: 20px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+                                        <div id="text-block-v8ei9wHRpg" class="sh-text-block">
+                                        PORQUE DEVO INSTALAR CÂMERAS DE SEGURANÇA?
+                                        “O sistema de câmeras além de permitir visualizar, monitorar e gravar imagens de diversos ambientes 
+                                        simultaneamente age com um fator psicológico de dissuasão”.
+                                        </div>
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-NpTVlAIw4O  " style="height: 25px">
+                                            <span class="vc_empty_space_inner"></span>
+                                        </div>
+
+                                        <ul class="sh-list sh-list-vc sh-list-style1" id="list-UnW7b1uJlj">
+
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                Instalação de Circuito Fechado de TV.</span>
+
+                                            </li>
+
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
+
+                                                <span class="sh-list-icon">
+                                                </span>
+                                                <span class="sh-list-content event-separad">
+                                                Instalação em ambientes:</span>
+
+                                            </li>
+
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                Internos e externos</span>
+
+                                            </li>
+
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                Residências</span>
+
+                                            </li>
+
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                Condomínios</span>
+
+                                            </li>
+
+
+                                            <li class="sh-list-item js-scroll fade-in-bottom">
+
+                                                <span class="sh-list-icon">
+                                                    <i class="fa fa-check"></i>
+                                                </span>
+                                                <span class="sh-list-content">
+                                                Empresas</span>
+
+                                            </li>
+
+
+                                        </ul>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--  -->
+
                         <div class="sh-empty-space vc_empty_space sh-empty-space-pgDBCZJeHi" style="height: 20px">
                             <span class="vc_empty_space_inner"></span>
                         </div>
