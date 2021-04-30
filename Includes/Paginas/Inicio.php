@@ -7,7 +7,7 @@
                 <i class="fab fa-facebook-f"></i></a>
             <a href="https://www.instagram.com/lungatec/" target="_blank" class="vertical-link">
                 <i class="fab fa-instagram"></i></a>
-            <a href="https://api.whatsapp.com/send/?phone=557183145450&text&app_absent=0" target="_blank" class="vertical-link">
+            <a href="https://api.whatsapp.com/send/?phone=557196414531&text&app_absent=0" target="_blank" class="vertical-link">
                 <i class="fab fa-whatsapp"></i></i></a>
 
         </div>
