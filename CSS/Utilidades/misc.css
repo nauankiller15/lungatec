@@ -1318,7 +1318,7 @@ fieldset[disabled] .w-select {
   color: #fff;
 }
 
-.w-background-video > video {
+.w-fundo {
   background-size: cover;
   background-position: 50% 50%;
   position: absolute;
@@ -1334,7 +1334,7 @@ fieldset[disabled] .w-select {
   overflow: hidden;
 }
 
-.w-background-video > video::-webkit-media-controls-start-playback-button {
+.w-fundo::-webkit-media-controls-start-playback-button {
   display: none !important;
   -webkit-appearance: none;
 }
