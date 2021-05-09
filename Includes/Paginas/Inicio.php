@@ -734,7 +734,7 @@
                                                     Confira aqui a galeria de fotos da lungatec</h2>
                                             </div>
                                         </div>
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-jgDGQf0zc5  " style="height: 120px">
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-jgDGQf0zc5  " style="height: 30px">
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
 
@@ -826,7 +826,7 @@
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
 
-                                        <div class="sh-heading  " id="heading-afErPwRIot">
+                                        <div class="sh-heading" id="heading-afErPwRIot">
                                             <div class="sh-element-margin">
 
                                                 <h2 class="sh-heading-content size-custom text-center js-scroll slide-left">
@@ -834,7 +834,7 @@
 
                                             </div>
                                         </div>
-                                        <div class="sh-empty-space vc_empty_space sh-empty-space-jgDGQf0zc5  " style="height: 120px">
+                                        <div class="sh-empty-space vc_empty_space sh-empty-space-jgDGQf0zc5  " style="height: 20px">
                                             <span class="vc_empty_space_inner"></span>
                                         </div>
 
